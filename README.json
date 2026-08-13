@@ -342,7 +342,7 @@
             "last_commit": "2026-08-11T22:18:02Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38170
+            "stars": 38172
           }
         },
         {
@@ -367,7 +367,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T03:25:05Z",
+            "last_commit": "2026-08-13T04:01:42Z",
             "owner": "commixproject",
             "repo": "commix",
             "stars": 5813
@@ -1084,7 +1084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:58:17.634Z",
+    "last_updated": "2026-08-13T10:45:31.042Z",
     "original_repository": "theodorosploumis/awesome-drupal",
     "original_repository_sha": "0b1bbac4b0efb40b0d8dee99b77d7492f5ef79bc",
     "enhanced_repository": "enhansome/enhansome-drupal",
