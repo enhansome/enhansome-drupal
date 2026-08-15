@@ -459,12 +459,12 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,187 | 🐛 32 | 🌐 Python | 📅 2026-08-13
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,648 | 🐛 1 | 🌐 Perl | 📅 2026-07-31
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,815 | 🐛 8 | 🌐 Python | 📅 2026-08-14
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,194 | 🐛 32 | 🌐 Python | 📅 2026-08-15
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,650 | 🐛 1 | 🌐 Perl | 📅 2026-08-15
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,816 | 🐛 6 | 🌐 Python | 📅 2026-08-15
 * [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,133 | 🐛 29 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,460 | 🐛 0 | 🌐 Python | 📅 2026-07-09
-* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,440 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
+* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,442 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
 <!--lint disable double-link-->
 
@@ -523,7 +523,7 @@ Back to [TOC](#contents)
 * [blt/RoboFile.php at 8.9.x · acquia/blt](https://github.com/acquia/blt/blob/8.9.x/RoboFile.php) ⚠️ Archived
 * [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/circleci/.circleci/RoboFile.php) ⚠️ Archived
 * [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/github-actions/RoboFile.php) ⚠️ Archived
-* [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php) ⭐ 83 | 🐛 102 | 🌐 PHP | 📅 2026-08-14
+* [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php) ⭐ 83 | 🐛 102 | 🌐 PHP | 📅 2026-08-15
 * [openeuropa/task-runner: PHP task runner based on Robo, focused on extensibility.](https://github.com/openeuropa/task-runner) ⭐ 37 | 🐛 1 | 🌐 PHP | 📅 2026-03-02
 * [boedah/robo-drush: Drush CommandStack for Robo Task Runner](https://github.com/boedah/robo-drush) ⭐ 22 | 🐛 1 | 🌐 PHP | 📅 2026-02-05
 * [integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact) ⭐ 21 | 🐛 1 | 🌐 PHP | 📅 2026-08-07
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
