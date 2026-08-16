@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T21:28:15Z",
+            "last_commit": "2026-08-16T06:18:24Z",
             "owner": "drupal",
             "repo": "core",
             "stars": 194
@@ -339,10 +339,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T07:45:24Z",
+            "last_commit": "2026-08-15T22:17:32Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38194
+            "stars": 38201
           }
         },
         {
@@ -353,10 +353,10 @@
           "repo_info": {
             "archived": false,
             "language": "Perl",
-            "last_commit": "2026-08-15T03:15:22Z",
+            "last_commit": "2026-08-16T04:21:18Z",
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10650
+            "stars": 10656
           }
         },
         {
@@ -367,7 +367,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T04:44:49Z",
+            "last_commit": "2026-08-16T05:13:51Z",
             "owner": "commixproject",
             "repo": "commix",
             "stars": 5816
@@ -398,7 +398,7 @@
             "last_commit": "2026-07-09T17:33:34Z",
             "owner": "epsylon",
             "repo": "xsser",
-            "stars": 1460
+            "stars": 1461
           }
         },
         {
@@ -866,7 +866,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-07T18:42:06Z",
+            "last_commit": "2026-08-16T00:12:02Z",
             "owner": "drevops",
             "repo": "git-artifact",
             "stars": 21
@@ -1084,7 +1084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:00:26.521Z",
+    "last_updated": "2026-08-16T10:00:33.263Z",
     "original_repository": "theodorosploumis/awesome-drupal",
     "original_repository_sha": "0b1bbac4b0efb40b0d8dee99b77d7492f5ef79bc",
     "enhanced_repository": "enhansome/enhansome-drupal",
