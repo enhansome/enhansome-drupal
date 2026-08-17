@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T06:18:24Z",
+            "last_commit": "2026-08-17T07:34:27Z",
             "owner": "drupal",
             "repo": "core",
             "stars": 194
@@ -339,7 +339,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T22:17:32Z",
+            "last_commit": "2026-08-16T21:52:26Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
             "stars": 38201
@@ -353,10 +353,10 @@
           "repo_info": {
             "archived": false,
             "language": "Perl",
-            "last_commit": "2026-08-16T04:21:18Z",
+            "last_commit": "2026-08-17T00:40:26Z",
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10656
+            "stars": 10658
           }
         },
         {
@@ -367,7 +367,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T05:13:51Z",
+            "last_commit": "2026-08-17T08:39:29Z",
             "owner": "commixproject",
             "repo": "commix",
             "stars": 5816
@@ -384,7 +384,7 @@
             "last_commit": "2023-06-07T05:13:46Z",
             "owner": "anouarbensaad",
             "repo": "vulnx",
-            "stars": 2133
+            "stars": 2134
           }
         },
         {
@@ -1084,7 +1084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:00:33.263Z",
+    "last_updated": "2026-08-17T10:16:11.013Z",
     "original_repository": "theodorosploumis/awesome-drupal",
     "original_repository_sha": "0b1bbac4b0efb40b0d8dee99b77d7492f5ef79bc",
     "enhanced_repository": "enhansome/enhansome-drupal",
