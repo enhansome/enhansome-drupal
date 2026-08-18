@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-25T19:35:17Z",
+            "last_commit": "2026-08-17T17:47:38Z",
             "owner": "drush-ops",
             "repo": "drush",
-            "stars": 2377
+            "stars": 2376
           }
         },
         {
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T07:34:27Z",
+            "last_commit": "2026-08-18T09:50:56Z",
             "owner": "drupal",
             "repo": "core",
             "stars": 194
@@ -339,10 +339,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T21:52:26Z",
+            "last_commit": "2026-08-18T09:54:04Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38201
+            "stars": 38205
           }
         },
         {
@@ -353,10 +353,10 @@
           "repo_info": {
             "archived": false,
             "language": "Perl",
-            "last_commit": "2026-08-17T00:40:26Z",
+            "last_commit": "2026-08-18T04:01:08Z",
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10658
+            "stars": 10662
           }
         },
         {
@@ -367,10 +367,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T08:39:29Z",
+            "last_commit": "2026-08-18T05:14:39Z",
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5816
+            "stars": 5817
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2023-06-07T05:13:46Z",
             "owner": "anouarbensaad",
             "repo": "vulnx",
-            "stars": 2134
+            "stars": 2135
           }
         },
         {
@@ -1084,7 +1084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:16:11.013Z",
+    "last_updated": "2026-08-18T10:04:28.573Z",
     "original_repository": "theodorosploumis/awesome-drupal",
     "original_repository_sha": "0b1bbac4b0efb40b0d8dee99b77d7492f5ef79bc",
     "enhanced_repository": "enhansome/enhansome-drupal",
