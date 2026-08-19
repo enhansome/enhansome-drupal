@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "Back to TOC",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99961608,
             "language": "PHP",
             "last_commit": "2022-06-14T19:15:06Z",
             "owner": "daggerhart",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174824097,
             "language": "Shell",
             "last_commit": "2026-05-21T08:28:44Z",
             "owner": "theodorosploumis",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197520203,
             "language": null,
             "last_commit": "2019-09-10T12:52:36Z",
             "owner": "druman",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207498152,
             "language": "Shell",
             "last_commit": "2026-05-22T07:06:24Z",
             "owner": "flashvnn",
@@ -63,7 +67,7 @@
       "title": "Cheatsheets"
     },
     {
-      "description": "",
+      "description": "Back to TOC",
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3193843,
             "language": "PHP",
             "last_commit": "2026-08-17T17:47:38Z",
             "owner": "drush-ops",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21392057,
             "language": "PHP",
             "last_commit": "2020-10-06T10:56:55Z",
             "owner": "drupalcommerce",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21392057,
             "language": "PHP",
             "last_commit": "2020-10-06T10:56:55Z",
             "owner": "drupalcommerce",
@@ -114,8 +121,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85152549,
             "language": "PHP",
-            "last_commit": "2026-08-18T09:50:56Z",
+            "last_commit": "2026-08-19T00:14:53Z",
             "owner": "drupal",
             "repo": "core",
             "stars": 194
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46939883,
             "language": "PHP",
             "last_commit": "2020-09-17T20:01:59Z",
             "owner": "drupal-composer",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27300340,
             "language": "Shell",
             "last_commit": "2021-02-05T07:44:44Z",
             "owner": "fabianx-ai",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21141207,
             "language": null,
             "last_commit": "2018-02-26T19:52:18Z",
             "owner": "geerlingguy",
@@ -167,259 +178,286 @@
       "title": "CI template examples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "systemseed/drupal_reactjs_boilerplate",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2022-05-25T18:28:17Z",
-            "owner": "systemseed",
-            "repo": "drupal_reactjs_boilerplate",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DrupalizeMe/react-and-drupal-examples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-11T17:19:00Z",
-            "owner": "DrupalizeMe",
-            "repo": "react-and-drupal-examples",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Drupal 8/9 + ReactJS + Bootstrap 4",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-02-22T10:13:58Z",
-            "owner": "gnikolovski",
-            "repo": "druact",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Falcon: Distribution made for Charities. Powered by Drupal and React",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-05-14T11:45:11Z",
-            "owner": "systemseed",
-            "repo": "falcon",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gatsby Drupal multi-app for Platform.sh",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-10-24T07:50:50Z",
-            "owner": "platformsh-templates",
-            "repo": "gatsby-drupal",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Headless Drupal - Vue.js template for Platform.sh projects",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2022-02-18T20:23:58Z",
-            "owner": "yuseferi",
-            "repo": "decoupled-drupal-vuejs",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VertikaJain/decoupled-drupal-react",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-15T15:02:03Z",
-            "owner": "VertikaJain",
-            "repo": "decoupled-drupal-react",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "systemseed/drupal_reactjs_boilerplate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143294371,
+                "language": "CoffeeScript",
+                "last_commit": "2022-05-25T18:28:17Z",
+                "owner": "systemseed",
+                "repo": "drupal_reactjs_boilerplate",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DrupalizeMe/react-and-drupal-examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244949420,
+                "language": "JavaScript",
+                "last_commit": "2025-09-11T17:19:00Z",
+                "owner": "DrupalizeMe",
+                "repo": "react-and-drupal-examples",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drupal 8/9 + ReactJS + Bootstrap 4",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 89101721,
+                "language": "JavaScript",
+                "last_commit": "2021-02-22T10:13:58Z",
+                "owner": "gnikolovski",
+                "repo": "druact",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Falcon: Distribution made for Charities. Powered by Drupal and React",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144001195,
+                "language": "PHP",
+                "last_commit": "2022-05-14T11:45:11Z",
+                "owner": "systemseed",
+                "repo": "falcon",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gatsby Drupal multi-app for Platform.sh",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269392108,
+                "language": "PHP",
+                "last_commit": "2025-10-24T07:50:50Z",
+                "owner": "platformsh-templates",
+                "repo": "gatsby-drupal",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Headless Drupal - Vue.js template for Platform.sh projects",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 240106224,
+                "language": "PHP",
+                "last_commit": "2022-02-18T20:23:58Z",
+                "owner": "yuseferi",
+                "repo": "decoupled-drupal-vuejs",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VertikaJain/decoupled-drupal-react",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353347563,
+                "language": "JavaScript",
+                "last_commit": "2021-04-15T15:02:03Z",
+                "owner": "VertikaJain",
+                "repo": "decoupled-drupal-react",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "For old, outdated and unmaintened examples see archive/decoupled.md\nBack to TOC",
+          "node_type": "group",
+          "title": "Decoupled examples"
         }
       ],
-      "title": "Decoupled examples"
+      "title": "Decoupled"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awslabs/aws-refarch-drupal - Running Drupal on AWS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 97280256,
+                "language": "PHP",
+                "last_commit": "2019-04-09T00:27:52Z",
+                "owner": "aws-samples",
+                "repo": "aws-refarch-drupal",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awslabs/eb-php-drupal - Deploying drupal on Elastic Beanstalk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72873297,
+                "language": "PHP",
+                "last_commit": "2022-06-16T11:03:20Z",
+                "owner": "aws-samples",
+                "repo": "eb-php-drupal",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "soccerties/Drupal-AWS-Ansible - High availability Drupal in AWS using Ansible",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51852723,
+                "language": "Python",
+                "last_commit": "2016-02-16T22:21:37Z",
+                "owner": "soccerties",
+                "repo": "Drupal-AWS-Ansible",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AWS"
+        }
+      ],
       "title": "Provision"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "awslabs/aws-refarch-drupal - Running Drupal on AWS",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2019-04-09T00:27:52Z",
-            "owner": "aws-samples",
-            "repo": "aws-refarch-drupal",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awslabs/eb-php-drupal - Deploying drupal on Elastic Beanstalk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-06-16T11:03:20Z",
-            "owner": "aws-samples",
-            "repo": "eb-php-drupal",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "soccerties/Drupal-AWS-Ansible - High availability Drupal in AWS using Ansible",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-02-16T22:21:37Z",
-            "owner": "soccerties",
-            "repo": "Drupal-AWS-Ansible",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sqlmapproject/sqlmap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4793392,
+                "language": "Python",
+                "last_commit": "2026-08-18T12:50:42Z",
+                "owner": "sqlmapproject",
+                "repo": "sqlmap",
+                "stars": 38221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sullo/nikto",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6836299,
+                "language": "Perl",
+                "last_commit": "2026-08-18T04:01:08Z",
+                "owner": "sullo",
+                "repo": "nikto",
+                "stars": 10667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "commixproject/commix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32572504,
+                "language": "Python",
+                "last_commit": "2026-08-19T04:51:56Z",
+                "owner": "commixproject",
+                "repo": "commix",
+                "stars": 5819
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anouarbensaad/vulnx",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145907546,
+                "language": "Python",
+                "last_commit": "2023-06-07T05:13:46Z",
+                "owner": "anouarbensaad",
+                "repo": "vulnx",
+                "stars": 2135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "epsylon/xsser",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7184441,
+                "language": "Python",
+                "last_commit": "2026-07-09T17:33:34Z",
+                "owner": "epsylon",
+                "repo": "xsser",
+                "stars": 1462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "droope/droopescan",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25606702,
+                "language": "HTML",
+                "last_commit": "2024-01-19T19:58:03Z",
+                "owner": "SamJoan",
+                "repo": "droopescan",
+                "stars": 1442
+              }
+            }
+          ],
+          "description": "Several security validation and penetration tools to help you create a secure Drupal website\nBack to TOC",
+          "node_type": "group",
+          "title": "Security tools"
         }
       ],
-      "title": "AWS"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Security"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "sqlmapproject/sqlmap",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T09:54:04Z",
-            "owner": "sqlmapproject",
-            "repo": "sqlmap",
-            "stars": 38205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sullo/nikto",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-08-18T04:01:08Z",
-            "owner": "sullo",
-            "repo": "nikto",
-            "stars": 10662
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "commixproject/commix",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:14:39Z",
-            "owner": "commixproject",
-            "repo": "commix",
-            "stars": 5817
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anouarbensaad/vulnx",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-07T05:13:46Z",
-            "owner": "anouarbensaad",
-            "repo": "vulnx",
-            "stars": 2135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "epsylon/xsser",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-09T17:33:34Z",
-            "owner": "epsylon",
-            "repo": "xsser",
-            "stars": 1461
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "droope/droopescan",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-01-19T19:58:03Z",
-            "owner": "SamJoan",
-            "repo": "droopescan",
-            "stars": 1442
-          }
-        }
-      ],
-      "title": "Security tools"
-    },
-    {
-      "description": "",
+      "description": "Back to TOC",
       "items": [
         {
           "node_type": "item",
@@ -428,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46939883,
             "language": "PHP",
             "last_commit": "2020-09-17T20:01:59Z",
             "owner": "drupal-composer",
@@ -442,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81958177,
             "language": "JavaScript",
             "last_commit": "2023-03-04T02:57:22Z",
             "owner": "current-agency",
@@ -456,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28179191,
             "language": "Shell",
             "last_commit": "2017-01-02T11:09:27Z",
             "owner": "Gizra",
@@ -470,11 +511,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20905713,
             "language": "JavaScript",
             "last_commit": "2015-05-18T17:55:28Z",
             "owner": "enzolutions",
             "repo": "generator-marionette-drupal",
-            "stars": 48
+            "stars": 47
           }
         },
         {
@@ -484,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65626666,
             "language": "PHP",
             "last_commit": "2024-06-17T10:41:14Z",
             "owner": "LastCallMedia",
@@ -498,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 10545230,
             "language": "PHP",
             "last_commit": "2014-03-25T13:44:59Z",
             "owner": "pixelmord",
@@ -512,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20843477,
             "language": "CSS",
             "last_commit": "2015-07-16T14:35:12Z",
             "owner": "frontend-united",
@@ -526,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22781907,
             "language": "JavaScript",
             "last_commit": "2015-05-24T03:17:30Z",
             "owner": "badri",
@@ -540,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10434809,
             "language": "JavaScript",
             "last_commit": "2013-08-29T20:54:40Z",
             "owner": "davidmaneuver",
@@ -554,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30598510,
             "language": "CSS",
             "last_commit": "2015-03-12T10:44:07Z",
             "owner": "supermoos",
@@ -568,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45843785,
             "language": "JavaScript",
             "last_commit": "2016-04-13T14:05:16Z",
             "owner": "kevinquillen",
@@ -582,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47626577,
             "language": "Shell",
             "last_commit": "2016-01-05T13:56:41Z",
             "owner": "kgaut",
@@ -596,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28992365,
             "language": "JavaScript",
             "last_commit": "2015-01-25T07:22:10Z",
             "owner": "omero",
@@ -610,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81269273,
             "language": "PHP",
             "last_commit": "2017-05-02T16:53:57Z",
             "owner": "PivaleCo",
@@ -624,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404984877,
             "language": "JavaScript",
             "last_commit": "2023-01-19T21:49:12Z",
             "owner": "AtenDesignGroup",
@@ -638,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64701324,
             "language": "PHP",
             "last_commit": "2017-11-07T19:05:28Z",
             "owner": "forumone",
@@ -649,374 +703,402 @@
       "title": "Scaffolding Tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "alexpott/d8githooks: Drupal core committer Git hooks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11910643,
+                "language": "Shell",
+                "last_commit": "2026-05-22T18:29:27Z",
+                "owner": "alexpott",
+                "repo": "d8githooks",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vijaycs85/drupal-quality-checker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113746359,
+                "language": null,
+                "last_commit": "2023-05-12T10:06:27Z",
+                "owner": "vijaycs85",
+                "repo": "drupal-quality-checker",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drupol/drupal-conventions: Check (and fix) your code against Drupal's code conventions and coding standard.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166981958,
+                "language": "PHP",
+                "last_commit": "2022-03-29T11:16:52Z",
+                "owner": "drupol",
+                "repo": "drupal-conventions",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "andrewmriley/drupal-site-precommit: Scripts to have Git check your commits for Drupal debugging code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27136677,
+                "language": "PHP",
+                "last_commit": "2015-12-08T20:35:36Z",
+                "owner": "andrewmriley",
+                "repo": "drupal-site-precommit",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jover/drupal-code-check: A Git pre-commit hook to check Drupal Coding Standards and more.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73568919,
+                "language": "PHP",
+                "last_commit": "2017-05-05T14:09:35Z",
+                "owner": "jover",
+                "repo": "drupal-code-check",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "code-review/base-conventions.yml at 1.x · openeuropa/code-review",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85295733,
+                "language": null,
+                "last_commit": "2026-05-05T09:12:40Z",
+                "owner": "openeuropa",
+                "repo": "code-review",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "district09/php_package_qa-drupal: Digipolis QA for PHP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292303641,
+                "language": "PHP",
+                "last_commit": "2026-05-07T12:26:47Z",
+                "owner": "district09",
+                "repo": "php_package_qa-drupal",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drupal-infofinland/commit-msg at main · City-of-Helsinki/drupal-infofinland",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 399095602,
+                "language": "PHP",
+                "last_commit": "2026-01-25T12:02:19Z",
+                "owner": "City-of-Helsinki",
+                "repo": "drupal-infofinland",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Several examples of Git hooks (pre-commit etc) related to Drupal.",
+          "node_type": "group",
+          "title": "Git hooks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "blt/RoboFile.php at 8.9.x · acquia/blt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 57239027,
+                "language": "PHP",
+                "last_commit": "2024-07-31T12:17:43Z",
+                "owner": "acquia",
+                "repo": "blt",
+                "stars": 433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drupal9ci/RoboFile.php at master · Lullabot/drupal9ci",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 112190554,
+                "language": "Shell",
+                "last_commit": "2024-10-03T13:41:14Z",
+                "owner": "Lullabot",
+                "repo": "drupal9ci",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drupal9ci/RoboFile.php at master · Lullabot/drupal9ci",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 112190554,
+                "language": "Shell",
+                "last_commit": "2024-10-03T13:41:14Z",
+                "owner": "Lullabot",
+                "repo": "drupal9ci",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drupal-starter/RoboFile.php at main · Gizra/drupal-starter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250256146,
+                "language": "PHP",
+                "last_commit": "2026-08-15T08:14:26Z",
+                "owner": "Gizra",
+                "repo": "drupal-starter",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openeuropa/task-runner: PHP task runner based on Robo, focused on extensibility.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114144946,
+                "language": "PHP",
+                "last_commit": "2026-03-02T15:33:37Z",
+                "owner": "openeuropa",
+                "repo": "task-runner",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "boedah/robo-drush: Drush CommandStack for Robo Task Runner",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20575476,
+                "language": "PHP",
+                "last_commit": "2026-02-05T16:51:37Z",
+                "owner": "boedah",
+                "repo": "robo-drush",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102357490,
+                "language": "PHP",
+                "last_commit": "2026-08-18T22:43:46Z",
+                "owner": "drevops",
+                "repo": "git-artifact",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drupal8-github-actions/RoboFile.php at master · juampynr/drupal8-github-actions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219281094,
+                "language": "PHP",
+                "last_commit": "2020-03-29T10:24:32Z",
+                "owner": "juampynr",
+                "repo": "drupal8-github-actions",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drupal8_base/RoboFile.php at master · vincenzodibiaggio/drupal8_base",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45320770,
+                "language": "PHP",
+                "last_commit": "2016-12-04T09:06:38Z",
+                "owner": "vincenzodibiaggio",
+                "repo": "drupal8_base",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "digipolisgent/robo-drupal-console: Drupal Console CommandStack for Robo Task Runner",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76353422,
+                "language": "PHP",
+                "last_commit": "2019-08-13T07:10:43Z",
+                "owner": "district09",
+                "repo": "robo-drupal-console",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drupal8-travis-ci/RoboFile.php at master · juampynr/drupal8-travis-ci",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126692633,
+                "language": "PHP",
+                "last_commit": "2018-04-02T09:41:24Z",
+                "owner": "juampynr",
+                "repo": "drupal8-travis-ci",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "robo-drupal/Tasks.php at production · thinkshout/robo-drupal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66010186,
+                "language": "PHP",
+                "last_commit": "2026-06-03T16:39:10Z",
+                "owner": "thinkshout",
+                "repo": "robo-drupal",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LandoStand-Drupal/RoboFile.php at master · mobomo/LandoStand-Drupal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269772728,
+                "language": "PHP",
+                "last_commit": "2024-11-25T20:04:00Z",
+                "owner": "mobomo",
+                "repo": "LandoStand-Drupal",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "amarie88/robo-drupal-coding: Drupal coding command for Robo Task Runner.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355149131,
+                "language": "PHP",
+                "last_commit": "2023-11-14T23:34:01Z",
+                "owner": "amarie88",
+                "repo": "robo-drupal-coding",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sweetchuck/robo-drush",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86166136,
+                "language": "PHP",
+                "last_commit": "2024-12-03T00:29:47Z",
+                "owner": "Sweetchuck",
+                "repo": "robo-drush",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drupal9/RoboFile.php at main · reynoldsalec/drupal9",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377030219,
+                "language": "PHP",
+                "last_commit": "2021-06-15T04:23:49Z",
+                "owner": "reynoldsalec",
+                "repo": "drupal9",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "d9-lagoon/RoboFile.php at 9.x · fjgarlin/d9-lagoon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355134652,
+                "language": "PHP",
+                "last_commit": "2021-04-30T19:29:18Z",
+                "owner": "fjgarlin",
+                "repo": "d9-lagoon",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Robo is a powerful PHP task runner. Robo can be used as an archive (PHAR) or library (composer) to automate your daily tasks. You can write tasks with PHP and do not need to struggle with bash scripts or Makefiles. See more on https://robo.li/.",
+          "node_type": "group",
+          "title": "Robofile"
+        }
+      ],
       "title": "Scripts"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "alexpott/d8githooks: Drupal core committer Git hooks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-05-22T18:29:27Z",
-            "owner": "alexpott",
-            "repo": "d8githooks",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vijaycs85/drupal-quality-checker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-05-12T10:06:27Z",
-            "owner": "vijaycs85",
-            "repo": "drupal-quality-checker",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drupol/drupal-conventions: Check (and fix) your code against Drupal's code conventions and coding standard.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-03-29T11:16:52Z",
-            "owner": "drupol",
-            "repo": "drupal-conventions",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "andrewmriley/drupal-site-precommit: Scripts to have Git check your commits for Drupal debugging code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2015-12-08T20:35:36Z",
-            "owner": "andrewmriley",
-            "repo": "drupal-site-precommit",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jover/drupal-code-check: A Git pre-commit hook to check Drupal Coding Standards and more.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2017-05-05T14:09:35Z",
-            "owner": "jover",
-            "repo": "drupal-code-check",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "code-review/base-conventions.yml at 1.x · openeuropa/code-review",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-05T09:12:40Z",
-            "owner": "openeuropa",
-            "repo": "code-review",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "district09/php_package_qa-drupal: Digipolis QA for PHP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-07T12:26:47Z",
-            "owner": "district09",
-            "repo": "php_package_qa-drupal",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drupal-infofinland/commit-msg at main · City-of-Helsinki/drupal-infofinland",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2026-01-25T12:02:19Z",
-            "owner": "City-of-Helsinki",
-            "repo": "drupal-infofinland",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Git hooks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "blt/RoboFile.php at 8.9.x · acquia/blt",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2024-07-31T12:17:43Z",
-            "owner": "acquia",
-            "repo": "blt",
-            "stars": 434
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drupal9ci/RoboFile.php at master · Lullabot/drupal9ci",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2024-10-03T13:41:14Z",
-            "owner": "Lullabot",
-            "repo": "drupal9ci",
-            "stars": 158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drupal9ci/RoboFile.php at master · Lullabot/drupal9ci",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2024-10-03T13:41:14Z",
-            "owner": "Lullabot",
-            "repo": "drupal9ci",
-            "stars": 158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drupal-starter/RoboFile.php at main · Gizra/drupal-starter",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-15T08:14:26Z",
-            "owner": "Gizra",
-            "repo": "drupal-starter",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openeuropa/task-runner: PHP task runner based on Robo, focused on extensibility.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-02T15:33:37Z",
-            "owner": "openeuropa",
-            "repo": "task-runner",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "boedah/robo-drush: Drush CommandStack for Robo Task Runner",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-02-05T16:51:37Z",
-            "owner": "boedah",
-            "repo": "robo-drush",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-16T00:12:02Z",
-            "owner": "drevops",
-            "repo": "git-artifact",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drupal8-github-actions/RoboFile.php at master · juampynr/drupal8-github-actions",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-03-29T10:24:32Z",
-            "owner": "juampynr",
-            "repo": "drupal8-github-actions",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drupal8_base/RoboFile.php at master · vincenzodibiaggio/drupal8_base",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2016-12-04T09:06:38Z",
-            "owner": "vincenzodibiaggio",
-            "repo": "drupal8_base",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "digipolisgent/robo-drupal-console: Drupal Console CommandStack for Robo Task Runner",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-08-13T07:10:43Z",
-            "owner": "district09",
-            "repo": "robo-drupal-console",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drupal8-travis-ci/RoboFile.php at master · juampynr/drupal8-travis-ci",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-04-02T09:41:24Z",
-            "owner": "juampynr",
-            "repo": "drupal8-travis-ci",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "robo-drupal/Tasks.php at production · thinkshout/robo-drupal",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-03T16:39:10Z",
-            "owner": "thinkshout",
-            "repo": "robo-drupal",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LandoStand-Drupal/RoboFile.php at master · mobomo/LandoStand-Drupal",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-11-25T20:04:00Z",
-            "owner": "mobomo",
-            "repo": "LandoStand-Drupal",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "amarie88/robo-drupal-coding: Drupal coding command for Robo Task Runner.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-11-14T23:34:01Z",
-            "owner": "amarie88",
-            "repo": "robo-drupal-coding",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sweetchuck/robo-drush",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-12-03T00:29:47Z",
-            "owner": "Sweetchuck",
-            "repo": "robo-drush",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drupal9/RoboFile.php at main · reynoldsalec/drupal9",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-06-15T04:23:49Z",
-            "owner": "reynoldsalec",
-            "repo": "drupal9",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "d9-lagoon/RoboFile.php at 9.x · fjgarlin/d9-lagoon",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-04-30T19:29:18Z",
-            "owner": "fjgarlin",
-            "repo": "d9-lagoon",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Robofile"
-    },
-    {
-      "description": "",
+      "description": "Back to TOC",
       "items": [
         {
           "node_type": "item",
@@ -1025,6 +1107,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21563040,
             "language": null,
             "last_commit": "2020-09-12T12:21:39Z",
             "owner": "mrsinguyen",
@@ -1039,6 +1122,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71426696,
             "language": null,
             "last_commit": "2022-10-09T08:34:27Z",
             "owner": "nirgn975",
@@ -1053,6 +1137,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122219469,
             "language": null,
             "last_commit": "2026-04-18T14:23:36Z",
             "owner": "dpacassi",
@@ -1067,6 +1152,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45694427,
             "language": null,
             "last_commit": "2015-11-06T17:46:32Z",
             "owner": "Lullabot",
@@ -1076,17 +1162,12 @@
         }
       ],
       "title": "Similar projects"
-    },
-    {
-      "description": "Copyright disclaimer: Drupal is a registered trademark of Dries Buytaert.\nMaintained since 2016.",
-      "items": [],
-      "title": "Footnotes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:04:28.573Z",
+    "last_updated": "2026-08-19T10:04:57.054Z",
     "original_repository": "theodorosploumis/awesome-drupal",
-    "original_repository_sha": "0b1bbac4b0efb40b0d8dee99b77d7492f5ef79bc",
+    "original_repository_sha": "4f2144527682d981a363715709665428e8ba2ff9",
     "enhanced_repository": "enhansome/enhansome-drupal",
     "enhanced_repository_description": null,
     "title": "Awesome Drupal with stars"
