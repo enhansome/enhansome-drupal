@@ -147,7 +147,7 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
-* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,376 | 🐛 486 | 🌐 PHP | 📅 2026-08-17
+* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,377 | 🐛 486 | 🌐 PHP | 📅 2026-08-17
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 194 | 🐛 0 | 🌐 PHP | 📅 2026-08-19
@@ -459,10 +459,10 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,223 | 🐛 32 | 🌐 Python | 📅 2026-08-18
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,667 | 🐛 1 | 🌐 Perl | 📅 2026-08-18
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,821 | 🐛 5 | 🌐 Python | 📅 2026-08-19
-* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,135 | 🐛 29 | 🌐 Python | 📅 2023-06-07
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,227 | 🐛 32 | 🌐 Python | 📅 2026-08-18
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,673 | 🐛 1 | 🌐 Perl | 📅 2026-08-18
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,821 | 🐛 4 | 🌐 Python | 📅 2026-08-20
+* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,136 | 🐛 29 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,462 | 🐛 0 | 🌐 Python | 📅 2026-07-09
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,442 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
@@ -523,10 +523,10 @@ Back to [TOC](#contents)
 * [blt/RoboFile.php at 8.9.x · acquia/blt](https://github.com/acquia/blt/blob/8.9.x/RoboFile.php) ⚠️ Archived
 * [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/circleci/.circleci/RoboFile.php) ⚠️ Archived
 * [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/github-actions/RoboFile.php) ⚠️ Archived
-* [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php) ⭐ 83 | 🐛 102 | 🌐 PHP | 📅 2026-08-15
+* [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php) ⭐ 83 | 🐛 102 | 🌐 PHP | 📅 2026-08-20
 * [openeuropa/task-runner: PHP task runner based on Robo, focused on extensibility.](https://github.com/openeuropa/task-runner) ⭐ 37 | 🐛 1 | 🌐 PHP | 📅 2026-03-02
 * [boedah/robo-drush: Drush CommandStack for Robo Task Runner](https://github.com/boedah/robo-drush) ⭐ 22 | 🐛 1 | 🌐 PHP | 📅 2026-02-05
-* [integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact) ⭐ 21 | 🐛 1 | 🌐 PHP | 📅 2026-08-18
+* [integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact) ⭐ 21 | 🐛 1 | 🌐 PHP | 📅 2026-08-19
 * [drupal8-github-actions/RoboFile.php at master · juampynr/drupal8-github-actions](https://github.com/juampynr/drupal8-github-actions/blob/master/RoboFile.php) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2020-03-29
 * [drupal8\_base/RoboFile.php at master · vincenzodibiaggio/drupal8\_base](https://github.com/vincenzodibiaggio/drupal8_base/blob/master/RoboFile.php) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2016-12-04
 * [digipolisgent/robo-drupal-console: Drupal Console CommandStack for Robo Task Runner](https://github.com/digipolisgent/robo-drupal-console) ⭐ 8 | 🐛 2 | 🌐 PHP | 📅 2019-08-13
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
