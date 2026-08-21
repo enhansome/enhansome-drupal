@@ -370,7 +370,7 @@
                 "last_commit": "2026-08-18T12:50:42Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38227
+                "stars": 38234
               }
             },
             {
@@ -385,7 +385,7 @@
                 "last_commit": "2026-08-18T04:01:08Z",
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10673
+                "stars": 10675
               }
             },
             {
@@ -397,10 +397,10 @@
                 "archived": false,
                 "id": 32572504,
                 "language": "Python",
-                "last_commit": "2026-08-20T05:19:02Z",
+                "last_commit": "2026-08-21T05:49:12Z",
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5821
+                "stars": 5822
               }
             },
             {
@@ -445,7 +445,7 @@
                 "last_commit": "2024-01-19T19:58:03Z",
                 "owner": "SamJoan",
                 "repo": "droopescan",
-                "stars": 1442
+                "stars": 1441
               }
             }
           ],
@@ -888,7 +888,7 @@
                 "archived": false,
                 "id": 250256146,
                 "language": "PHP",
-                "last_commit": "2026-08-20T06:19:10Z",
+                "last_commit": "2026-08-20T18:52:38Z",
                 "owner": "Gizra",
                 "repo": "drupal-starter",
                 "stars": 83
@@ -1165,7 +1165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:12:46.956Z",
+    "last_updated": "2026-08-21T10:12:55.829Z",
     "original_repository": "theodorosploumis/awesome-drupal",
     "original_repository_id": 56270343,
     "original_repository_sha": "4f2144527682d981a363715709665428e8ba2ff9",
