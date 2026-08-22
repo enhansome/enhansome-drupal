@@ -123,7 +123,7 @@
             "archived": false,
             "id": 85152549,
             "language": "PHP",
-            "last_commit": "2026-08-19T22:41:13Z",
+            "last_commit": "2026-08-22T09:01:04Z",
             "owner": "drupal",
             "repo": "core",
             "stars": 194
@@ -370,7 +370,7 @@
                 "last_commit": "2026-08-18T12:50:42Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38234
+                "stars": 38239
               }
             },
             {
@@ -385,7 +385,7 @@
                 "last_commit": "2026-08-18T04:01:08Z",
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10675
+                "stars": 10672
               }
             },
             {
@@ -397,10 +397,10 @@
                 "archived": false,
                 "id": 32572504,
                 "language": "Python",
-                "last_commit": "2026-08-21T05:49:12Z",
+                "last_commit": "2026-08-22T09:52:49Z",
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5822
+                "stars": 5821
               }
             },
             {
@@ -415,7 +415,7 @@
                 "last_commit": "2023-06-07T05:13:46Z",
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2136
+                "stars": 2135
               }
             },
             {
@@ -430,7 +430,7 @@
                 "last_commit": "2026-07-09T17:33:34Z",
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1462
+                "stars": 1461
               }
             },
             {
@@ -933,7 +933,7 @@
                 "archived": false,
                 "id": 102357490,
                 "language": "PHP",
-                "last_commit": "2026-08-19T18:16:15Z",
+                "last_commit": "2026-08-22T09:52:33Z",
                 "owner": "drevops",
                 "repo": "git-artifact",
                 "stars": 21
@@ -1165,7 +1165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:12:55.829Z",
+    "last_updated": "2026-08-22T10:00:56.459Z",
     "original_repository": "theodorosploumis/awesome-drupal",
     "original_repository_id": 56270343,
     "original_repository_sha": "4f2144527682d981a363715709665428e8ba2ff9",
