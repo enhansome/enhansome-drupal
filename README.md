@@ -147,10 +147,10 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
-* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,377 | 🐛 485 | 🌐 PHP | 📅 2026-08-17
+* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,377 | 🐛 486 | 🌐 PHP | 📅 2026-08-17
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
-* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 194 | 🐛 0 | 🌐 PHP | 📅 2026-08-22
+* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 194 | 🐛 0 | 🌐 PHP | 📅 2026-08-23
 * [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml) ⭐ 193 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [drupal\_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti) ⭐ 80 | 🐛 27 | 🌐 Shell | 📅 2021-02-05
 * [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins) ⭐ 41 | 🐛 0 | 📅 2018-02-26
@@ -356,7 +356,7 @@ Back to [TOC](#contents)
 
 * [Promote Drupal Group](https://www.drupal.org/community/promote-drupal)
 * [Promote Drupal - project](https://www.drupal.org/project/promote_drupal)
-* [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal) ⭐ 25 | 🐛 19 | 📅 2026-07-16
+* [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal) ⭐ 25 | 🐛 19 | 📅 2026-08-22
 * [stackshare.io/drupal](https://stackshare.io/drupal)
 
 <!--lint disable double-link-->
@@ -459,9 +459,9 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,239 | 🐛 32 | 🌐 Python | 📅 2026-08-18
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,672 | 🐛 1 | 🌐 Perl | 📅 2026-08-18
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,821 | 🐛 4 | 🌐 Python | 📅 2026-08-22
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,248 | 🐛 32 | 🌐 Python | 📅 2026-08-22
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,674 | 🐛 1 | 🌐 Perl | 📅 2026-08-18
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,822 | 🐛 4 | 🌐 Python | 📅 2026-08-23
 * [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,135 | 🐛 29 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,461 | 🐛 0 | 🌐 Python | 📅 2026-07-09
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,441 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
