@@ -306,9 +306,9 @@ Back to [TOC](#contents)
 
 ## Graphics
 
+* [theodorosploumis/drupal-glyphs](https://github.com/theodorosploumis/drupal-glyphs) ⭐ 3 | 🐛 2 | 📅 2026-03-07
 * [Drupal.org - Media Kit](https://www.drupal.org/about/media-kit)
 * [Drupal.org - Strategic Initiatives Logos](https://www.drupal.org/association/blog/strategic-initiatives-now-have-logos)
-* [theodorosploumis/drupal-glyphs](https://github.com/theodorosploumis/drupal-glyphs) ⭐ 3 | 🐛 2 | 📅 2026-03-07
 
 <!--lint disable double-link-->
 
@@ -354,9 +354,9 @@ Back to [TOC](#contents)
 
 ## Marketing
 
+* [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal) ⭐ 25 | 🐛 19 | 📅 2026-08-22
 * [Promote Drupal Group](https://www.drupal.org/community/promote-drupal)
 * [Promote Drupal - project](https://www.drupal.org/project/promote_drupal)
-* [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal) ⭐ 25 | 🐛 19 | 📅 2026-08-22
 * [stackshare.io/drupal](https://stackshare.io/drupal)
 
 <!--lint disable double-link-->

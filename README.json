@@ -181,6 +181,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "eworx-org/drupal-js",
+          "description": "(Drupal decoupled backend with JS frontend)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 457879728,
+            "language": null,
+            "last_commit": "2026-05-07T09:45:45Z",
+            "owner": "eworx-org",
+            "repo": "drupal-js",
+            "stars": 32
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -296,6 +311,48 @@
       "title": "Decoupled"
     },
     {
+      "description": "Back to TOC",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theodorosploumis/drupal-glyphs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227577282,
+            "language": null,
+            "last_commit": "2026-03-07T16:42:51Z",
+            "owner": "theodorosploumis",
+            "repo": "drupal-glyphs",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "Back to TOC",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theodorosploumis/notes - selling-drupal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 322633656,
+            "language": null,
+            "last_commit": "2026-08-22T15:44:50Z",
+            "owner": "theodorosploumis",
+            "repo": "notes",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Marketing"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -349,6 +406,50 @@
           "description": null,
           "node_type": "group",
           "title": "AWS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SaltStack Drupal formula",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11709807,
+                "language": "Shell",
+                "last_commit": "2015-07-22T19:33:14Z",
+                "owner": "saltstack-formulas",
+                "repo": "drupal-formula",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SaltStack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Provision of drupal lamp stack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 56581293,
+                "language": "SaltStack",
+                "last_commit": "2018-08-01T11:20:31Z",
+                "owner": "ec-europa",
+                "repo": "infra",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "Back to TOC",
+          "node_type": "group",
+          "title": "Other/Several"
         }
       ],
       "title": "Provision"
@@ -1098,6 +1199,27 @@
       "title": "Scripts"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "See Drupal for editors: eworx-org/drupal-editors",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 460540279,
+            "language": null,
+            "last_commit": "2023-11-20T14:25:01Z",
+            "owner": "eworx-org",
+            "repo": "drupal-editors",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Site building"
+    },
+    {
       "description": "Back to TOC",
       "items": [
         {
@@ -1165,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:22:41.803Z",
+    "last_updated": "2026-08-24T14:48:14.591Z",
     "original_repository": "theodorosploumis/awesome-drupal",
     "original_repository_id": 56270343,
     "original_repository_sha": "4f2144527682d981a363715709665428e8ba2ff9",
