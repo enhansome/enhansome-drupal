@@ -123,7 +123,7 @@
             "archived": false,
             "id": 85152549,
             "language": "PHP",
-            "last_commit": "2026-08-24T20:30:43Z",
+            "last_commit": "2026-08-25T09:46:29Z",
             "owner": "drupal",
             "repo": "core",
             "stars": 194
@@ -471,7 +471,7 @@
                 "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38258
+                "stars": 38259
               }
             },
             {
@@ -516,7 +516,7 @@
                 "last_commit": "2023-06-07T05:13:46Z",
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2136
+                "stars": 2137
               }
             },
             {
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:38:45.392Z",
+    "last_updated": "2026-08-25T10:13:56.974Z",
     "original_repository": "theodorosploumis/awesome-drupal",
     "original_repository_id": 56270343,
     "original_repository_sha": "4f2144527682d981a363715709665428e8ba2ff9",
