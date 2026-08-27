@@ -123,7 +123,7 @@
             "archived": false,
             "id": 85152549,
             "language": "PHP",
-            "last_commit": "2026-08-27T10:03:06Z",
+            "last_commit": "2026-08-27T15:13:53Z",
             "owner": "drupal",
             "repo": "core",
             "stars": 194
@@ -141,7 +141,7 @@
             "last_commit": "2020-09-17T20:01:59Z",
             "owner": "drupal-composer",
             "repo": "drupal-scaffold",
-            "stars": 193
+            "stars": 192
           }
         },
         {
@@ -471,7 +471,7 @@
                 "last_commit": "2026-08-26T11:46:12Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38278
+                "stars": 38282
               }
             },
             {
@@ -486,7 +486,7 @@
                 "last_commit": "2026-08-18T04:01:08Z",
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10686
+                "stars": 10688
               }
             },
             {
@@ -572,7 +572,7 @@
             "last_commit": "2020-09-17T20:01:59Z",
             "owner": "drupal-composer",
             "repo": "drupal-scaffold",
-            "stars": 193
+            "stars": 192
           }
         },
         {
@@ -662,7 +662,7 @@
             "last_commit": "2015-07-16T14:35:12Z",
             "owner": "frontend-united",
             "repo": "generator-drupal-theme",
-            "stars": 37
+            "stars": 36
           }
         },
         {
@@ -989,7 +989,7 @@
                 "archived": false,
                 "id": 250256146,
                 "language": "PHP",
-                "last_commit": "2026-08-25T14:37:41Z",
+                "last_commit": "2026-08-27T12:58:38Z",
                 "owner": "Gizra",
                 "repo": "drupal-starter",
                 "stars": 83
@@ -1034,7 +1034,7 @@
                 "archived": false,
                 "id": 102357490,
                 "language": "PHP",
-                "last_commit": "2026-08-25T23:39:26Z",
+                "last_commit": "2026-08-27T12:37:15Z",
                 "owner": "drevops",
                 "repo": "git-artifact",
                 "stars": 21
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:15.962Z",
+    "last_updated": "2026-08-27T20:00:07.567Z",
     "original_repository_info": {
       "archived": false,
       "id": 56270343,
