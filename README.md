@@ -150,7 +150,7 @@ Back to [TOC](#contents)
 * [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,377 | 🐛 486 | 🌐 PHP | 📅 2026-08-17
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
-* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 194 | 🐛 0 | 🌐 PHP | 📅 2026-08-27
+* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 194 | 🐛 0 | 🌐 PHP | 📅 2026-08-28
 * [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml) ⭐ 192 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [drupal\_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti) ⭐ 80 | 🐛 27 | 🌐 Shell | 📅 2021-02-05
 * [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins) ⭐ 41 | 🐛 0 | 📅 2018-02-26
@@ -354,7 +354,7 @@ Back to [TOC](#contents)
 
 ## Marketing
 
-* [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal) ⭐ 25 | 🐛 19 | 📅 2026-08-22
+* [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal) ⭐ 25 | 🐛 19 | 📅 2026-08-28
 * [Promote Drupal Group](https://www.drupal.org/community/promote-drupal)
 * [Promote Drupal - project](https://www.drupal.org/project/promote_drupal)
 * [stackshare.io/drupal](https://stackshare.io/drupal)
@@ -459,12 +459,12 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,282 | 🐛 34 | 🌐 Python | 📅 2026-08-26
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,688 | 🐛 1 | 🌐 Perl | 📅 2026-08-18
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,824 | 🐛 4 | 🌐 Python | 📅 2026-08-25
-* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,138 | 🐛 28 | 🌐 Python | 📅 2023-06-07
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,292 | 🐛 32 | 🌐 Python | 📅 2026-08-28
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,690 | 🐛 1 | 🌐 Perl | 📅 2026-08-28
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,828 | 🐛 4 | 🌐 Python | 📅 2026-08-25
+* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,140 | 🐛 28 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,462 | 🐛 0 | 🌐 Python | 📅 2026-07-09
-* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,445 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
+* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,446 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
 <!--lint disable double-link-->
 
@@ -523,7 +523,7 @@ Back to [TOC](#contents)
 * [blt/RoboFile.php at 8.9.x · acquia/blt](https://github.com/acquia/blt/blob/8.9.x/RoboFile.php) ⚠️ Archived
 * [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/circleci/.circleci/RoboFile.php) ⚠️ Archived
 * [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/github-actions/RoboFile.php) ⚠️ Archived
-* [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php) ⭐ 83 | 🐛 104 | 🌐 PHP | 📅 2026-08-27
+* [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php) ⭐ 83 | 🐛 109 | 🌐 PHP | 📅 2026-08-28
 * [openeuropa/task-runner: PHP task runner based on Robo, focused on extensibility.](https://github.com/openeuropa/task-runner) ⭐ 37 | 🐛 1 | 🌐 PHP | 📅 2026-03-02
 * [boedah/robo-drush: Drush CommandStack for Robo Task Runner](https://github.com/boedah/robo-drush) ⭐ 22 | 🐛 1 | 🌐 PHP | 📅 2026-02-05
 * [integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact) ⭐ 21 | 🐛 1 | 🌐 PHP | 📅 2026-08-27
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
