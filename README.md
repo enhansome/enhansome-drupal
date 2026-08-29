@@ -459,8 +459,8 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,292 | 🐛 32 | 🌐 Python | 📅 2026-08-28
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,690 | 🐛 1 | 🌐 Perl | 📅 2026-08-28
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,294 | 🐛 33 | 🌐 Python | 📅 2026-08-28
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,691 | 🐛 1 | 🌐 Perl | 📅 2026-08-28
 * [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,828 | 🐛 4 | 🌐 Python | 📅 2026-08-25
 * [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,140 | 🐛 28 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,462 | 🐛 0 | 🌐 Python | 📅 2026-07-09
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
