@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-28T20:53:30Z",
+            "last_commit": "2026-08-29T12:21:03Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -723,10 +723,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:44:26Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38294,
+                "stars": 38299,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -784,7 +784,7 @@
                 "open_issues": 4,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5828,
+                "stars": 5829,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:05:46.168Z",
+    "last_updated": "2026-08-29T14:41:53.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
