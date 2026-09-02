@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-01T14:15:03Z",
+            "last_commit": "2026-09-02T09:22:33Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -722,11 +722,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T08:24:59Z",
+                "last_commit": "2026-09-02T13:51:26Z",
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38337,
+                "stars": 38340,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10695,
+                "stars": 10697,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,7 +780,7 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T04:13:47Z",
+                "last_commit": "2026-09-02T06:03:01Z",
                 "open_issues": 4,
                 "owner": "commixproject",
                 "repo": "commix",
@@ -885,7 +885,7 @@
                 "open_issues": 16,
                 "owner": "SamJoan",
                 "repo": "droopescan",
-                "stars": 1446,
+                "stars": 1447,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:18:59.788Z",
+    "last_updated": "2026-09-02T13:53:20.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
