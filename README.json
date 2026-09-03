@@ -121,7 +121,7 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-08-17T17:47:38Z",
-            "open_issues": 486,
+            "open_issues": 487,
             "owner": "drush-ops",
             "repo": "drush",
             "stars": 2377,
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-02T09:22:33Z",
+            "last_commit": "2026-09-03T10:15:19Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -723,10 +723,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T13:51:26Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38340,
+                "stars": 38353,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10697,
+                "stars": 10699,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T06:03:01Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-03T06:53:19Z",
+                "open_issues": 5,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5830,
+                "stars": 5832,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1461,
+                "stars": 1462,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -885,7 +885,7 @@
                 "open_issues": 16,
                 "owner": "SamJoan",
                 "repo": "droopescan",
-                "stars": 1447,
+                "stars": 1446,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -1535,8 +1535,8 @@
                 "id": 250256146,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-08-31T12:52:39Z",
-                "open_issues": 107,
+                "last_commit": "2026-09-03T13:15:01Z",
+                "open_issues": 106,
                 "owner": "Gizra",
                 "repo": "drupal-starter",
                 "stars": 83,
@@ -1604,7 +1604,7 @@
                 "id": 102357490,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T11:13:36Z",
+                "last_commit": "2026-09-03T04:26:09Z",
                 "open_issues": 1,
                 "owner": "drevops",
                 "repo": "git-artifact",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:53:20.755Z",
+    "last_updated": "2026-09-03T13:53:44.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
