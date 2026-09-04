@@ -120,8 +120,8 @@
             "id": 3193843,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-08-17T17:47:38Z",
-            "open_issues": 487,
+            "last_commit": "2026-09-04T03:43:25Z",
+            "open_issues": 484,
             "owner": "drush-ops",
             "repo": "drush",
             "stars": 2377,
@@ -197,11 +197,11 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-03T10:15:19Z",
+            "last_commit": "2026-09-04T13:45:08Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
-            "stars": 194,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.418Z"
@@ -722,11 +722,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T13:51:26Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-04T07:47:40Z",
+                "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38353,
+                "stars": 38359,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10699,
+                "stars": 10702,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T06:53:19Z",
+                "last_commit": "2026-09-04T09:30:17Z",
                 "open_issues": 5,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5832,
+                "stars": 5834,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2143,
+                "stars": 2142,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1462,
+                "stars": 1463,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -885,7 +885,7 @@
                 "open_issues": 16,
                 "owner": "SamJoan",
                 "repo": "droopescan",
-                "stars": 1446,
+                "stars": 1447,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -1394,8 +1394,8 @@
                 "id": 292303641,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-05-07T12:26:47Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-04T13:44:13Z",
+                "open_issues": 1,
                 "owner": "district09",
                 "repo": "php_package_qa-drupal",
                 "stars": 2,
@@ -1604,7 +1604,7 @@
                 "id": 102357490,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T04:26:09Z",
+                "last_commit": "2026-09-03T23:00:58Z",
                 "open_issues": 1,
                 "owner": "drevops",
                 "repo": "git-artifact",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:53:44.685Z",
+    "last_updated": "2026-09-04T13:48:03.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
