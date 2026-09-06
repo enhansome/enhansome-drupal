@@ -124,7 +124,7 @@
             "open_issues": 484,
             "owner": "drush-ops",
             "repo": "drush",
-            "stars": 2377,
+            "stars": 2376,
             "topics": [
               "circleci",
               "cli",
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-05T11:57:06Z",
+            "last_commit": "2026-09-05T17:05:30Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -726,7 +726,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38362,
+                "stars": 38370,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -759,11 +759,11 @@
                 "id": 6836299,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T03:33:06Z",
+                "last_commit": "2026-09-06T00:32:38Z",
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10706,
+                "stars": 10713,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,7 +780,7 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T08:45:41Z",
+                "last_commit": "2026-09-06T07:52:28Z",
                 "open_issues": 5,
                 "owner": "commixproject",
                 "repo": "commix",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2143,
+                "stars": 2144,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -854,11 +854,11 @@
                 "id": 7184441,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-30T17:43:49Z",
+                "last_commit": "2026-09-05T17:44:44Z",
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1463,
+                "stars": 1464,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:03:06.087Z",
+    "last_updated": "2026-09-06T13:10:44.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",

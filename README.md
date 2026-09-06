@@ -147,7 +147,7 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
-* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,377 | 🐛 484 | 🌐 PHP | 📅 2026-09-04
+* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,376 | 🐛 484 | 🌐 PHP | 📅 2026-09-04
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 193 | 🐛 0 | 🌐 PHP | 📅 2026-09-05
@@ -459,11 +459,11 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,362 | 🐛 32 | 🌐 Python | 📅 2026-09-04
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,706 | 🐛 1 | 🌐 Perl | 📅 2026-09-05
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,836 | 🐛 5 | 🌐 Python | 📅 2026-09-05
-* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,143 | 🐛 28 | 🌐 Python | 📅 2023-06-07
-* [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,463 | 🐛 0 | 🌐 Python | 📅 2026-08-30
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,370 | 🐛 32 | 🌐 Python | 📅 2026-09-04
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,713 | 🐛 1 | 🌐 Perl | 📅 2026-09-06
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,836 | 🐛 5 | 🌐 Python | 📅 2026-09-06
+* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,144 | 🐛 28 | 🌐 Python | 📅 2023-06-07
+* [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,464 | 🐛 0 | 🌐 Python | 📅 2026-09-05
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,447 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
 <!--lint disable double-link-->
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
