@@ -120,7 +120,7 @@
             "id": 3193843,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-09-04T03:43:25Z",
+            "last_commit": "2026-09-06T21:19:32Z",
             "open_issues": 484,
             "owner": "drush-ops",
             "repo": "drush",
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-05T17:05:30Z",
+            "last_commit": "2026-09-07T15:15:26Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -722,11 +722,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T07:47:40Z",
+                "last_commit": "2026-09-07T10:06:28Z",
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38370,
+                "stars": 38382,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -759,11 +759,11 @@
                 "id": 6836299,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T00:32:38Z",
+                "last_commit": "2026-09-07T03:58:44Z",
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10713,
+                "stars": 10716,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -775,16 +775,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Automated All-in-One OS Command Injection Exploitation Tool",
+                "description": "Automated exploitation of command injection vulnerabilities. From detection to full control of the underlying operating system.",
                 "homepage": "https://commixproject.com",
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T07:52:28Z",
+                "last_commit": "2026-09-07T04:40:54Z",
                 "open_issues": 5,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5836,
+                "stars": 5837,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2144,
+                "stars": 2145,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:10:44.638Z",
+    "last_updated": "2026-09-07T15:17:30.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
