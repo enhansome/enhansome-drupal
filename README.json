@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-07T15:15:26Z",
+            "last_commit": "2026-09-08T12:12:19Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -723,10 +723,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T10:06:28Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38382,
+                "stars": 38386,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -759,11 +759,11 @@
                 "id": 6836299,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T03:58:44Z",
+                "last_commit": "2026-09-08T03:05:03Z",
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10716,
+                "stars": 10717,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,8 +780,8 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T04:40:54Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-08T03:19:05Z",
+                "open_issues": 4,
                 "owner": "commixproject",
                 "repo": "commix",
                 "stars": 5837,
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2145,
+                "stars": 2146,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:17:30.358Z",
+    "last_updated": "2026-09-08T13:53:55.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
