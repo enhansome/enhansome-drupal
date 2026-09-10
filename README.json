@@ -197,11 +197,11 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-09T13:32:49Z",
+            "last_commit": "2026-09-10T09:55:58Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.418Z"
@@ -552,7 +552,7 @@
             "open_issues": 19,
             "owner": "theodorosploumis",
             "repo": "notes",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "awesome-list",
               "best-practices",
@@ -726,7 +726,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38389,
+                "stars": 38406,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10717,
+                "stars": 10721,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T03:19:03Z",
+                "last_commit": "2026-09-10T12:53:06Z",
                 "open_issues": 6,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5837,
+                "stars": 5838,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -1604,7 +1604,7 @@
                 "id": 102357490,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T23:00:58Z",
+                "last_commit": "2026-09-10T02:13:13Z",
                 "open_issues": 1,
                 "owner": "drevops",
                 "repo": "git-artifact",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:56:15.021Z",
+    "last_updated": "2026-09-10T13:50:55.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
