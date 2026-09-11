@@ -121,7 +121,7 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-09-08T21:30:41Z",
-            "open_issues": 484,
+            "open_issues": 485,
             "owner": "drush-ops",
             "repo": "drush",
             "stars": 2376,
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-10T09:55:58Z",
+            "last_commit": "2026-09-11T13:46:59Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -726,7 +726,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38406,
+                "stars": 38413,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -759,11 +759,11 @@
                 "id": 6836299,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T03:05:03Z",
+                "last_commit": "2026-09-11T03:34:48Z",
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10721,
+                "stars": 10722,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,7 +780,7 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T12:53:06Z",
+                "last_commit": "2026-09-11T13:41:05Z",
                 "open_issues": 6,
                 "owner": "commixproject",
                 "repo": "commix",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1464,
+                "stars": 1465,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -1535,7 +1535,7 @@
                 "id": 250256146,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-09-03T13:15:01Z",
+                "last_commit": "2026-09-11T09:19:08Z",
                 "open_issues": 106,
                 "owner": "Gizra",
                 "repo": "drupal-starter",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:50:55.569Z",
+    "last_updated": "2026-09-11T13:51:14.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
