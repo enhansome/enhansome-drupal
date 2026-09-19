@@ -120,7 +120,7 @@
             "id": 3193843,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-09-13T14:40:51Z",
+            "last_commit": "2026-09-18T15:53:02Z",
             "open_issues": 488,
             "owner": "drush-ops",
             "repo": "drush",
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-18T13:51:28Z",
+            "last_commit": "2026-09-19T07:05:42Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -726,7 +726,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38465,
+                "stars": 38472,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10732,
+                "stars": 10734,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T03:26:31Z",
+                "last_commit": "2026-09-19T07:40:49Z",
                 "open_issues": 4,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5847,
+                "stars": 5850,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1466,
+                "stars": 1467,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -1394,8 +1394,8 @@
                 "id": 292303641,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-18T13:04:39Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-18T15:18:58Z",
+                "open_issues": 2,
                 "owner": "district09",
                 "repo": "php_package_qa-drupal",
                 "stars": 2,
@@ -1604,7 +1604,7 @@
                 "id": 102357490,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T04:53:19Z",
+                "last_commit": "2026-09-19T09:52:50Z",
                 "open_issues": 1,
                 "owner": "drevops",
                 "repo": "git-artifact",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:52:46.155Z",
+    "last_updated": "2026-09-19T13:28:25.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
