@@ -147,10 +147,10 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
-* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,376 | 🐛 488 | 🌐 PHP | 📅 2026-09-18
+* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,377 | 🐛 488 | 🌐 PHP | 📅 2026-09-18
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
-* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 194 | 🐛 0 | 🌐 PHP | 📅 2026-09-20
+* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 194 | 🐛 0 | 🌐 PHP | 📅 2026-09-21
 * [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml) ⭐ 192 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [drupal\_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti) ⭐ 80 | 🐛 27 | 🌐 Shell | 📅 2021-02-05
 * [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins) ⭐ 41 | 🐛 0 | 📅 2018-02-26
@@ -459,12 +459,12 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,476 | 🐛 31 | 🌐 Python | 📅 2026-09-20
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,734 | 🐛 1 | 🌐 Perl | 📅 2026-09-18
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,850 | 🐛 4 | 🌐 Python | 📅 2026-09-20
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,486 | 🐛 31 | 🌐 Python | 📅 2026-09-20
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,737 | 🐛 1 | 🌐 Perl | 📅 2026-09-18
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,853 | 🐛 4 | 🌐 Python | 📅 2026-09-21
 * [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,149 | 🐛 28 | 🌐 Python | 📅 2023-06-07
-* [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,467 | 🐛 0 | 🌐 Python | 📅 2026-09-05
-* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,450 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
+* [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,469 | 🐛 0 | 🌐 Python | 📅 2026-09-05
+* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,451 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
 <!--lint disable double-link-->
 
@@ -509,7 +509,7 @@ Back to [TOC](#contents)
 * [andrewmriley/drupal-site-precommit: Scripts to have Git check your commits for Drupal debugging code](https://github.com/andrewmriley/drupal-site-precommit) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2015-12-08
 * [jover/drupal-code-check: A Git pre-commit hook to check Drupal Coding Standards and more.](https://github.com/jover/drupal-code-check) ⭐ 4 | 🐛 2 | 🌐 PHP | 📅 2017-05-05
 * [code-review/base-conventions.yml at 1.x · openeuropa/code-review](https://github.com/openeuropa/code-review/blob/1.x/dist/base-conventions.yml) ⭐ 2 | 🐛 3 | 📅 2026-05-05
-* [district09/php\_package\_qa-drupal: Digipolis QA for PHP](https://github.com/district09/php_package_qa-drupal) ⭐ 2 | 🐛 2 | 🌐 PHP | 📅 2026-09-18
+* [district09/php\_package\_qa-drupal: Digipolis QA for PHP](https://github.com/district09/php_package_qa-drupal) ⭐ 2 | 🐛 2 | 🌐 PHP | 📅 2026-09-21
 * [drupal-infofinland/commit-msg at main · City-of-Helsinki/drupal-infofinland](https://github.com/City-of-Helsinki/drupal-infofinland/blob/main/tools/commit-msg) ⚠️ Archived
 * [Run phpcs in ddev with Drupal standard on pre-commit](https://gist.github.com/bserem/75e82528d73ae125e286733e163443d8)
 * [Hawkeye Tenderwolf / Automatically install a Git pre-commit hook to enforce Drupal coding standards · GitLab](https://gitlab.com/hawkeye.twolf/drupal-standards-via-git)
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

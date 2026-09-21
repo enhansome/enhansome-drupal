@@ -124,7 +124,7 @@
             "open_issues": 488,
             "owner": "drush-ops",
             "repo": "drush",
-            "stars": 2376,
+            "stars": 2377,
             "topics": [
               "circleci",
               "cli",
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-20T07:19:11Z",
+            "last_commit": "2026-09-21T15:40:42Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -726,7 +726,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38476,
+                "stars": 38486,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10734,
+                "stars": 10737,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T08:55:18Z",
+                "last_commit": "2026-09-21T12:07:25Z",
                 "open_issues": 4,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5850,
+                "stars": 5853,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1467,
+                "stars": 1469,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -885,7 +885,7 @@
                 "open_issues": 16,
                 "owner": "SamJoan",
                 "repo": "droopescan",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -1394,7 +1394,7 @@
                 "id": 292303641,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-18T15:18:58Z",
+                "last_commit": "2026-09-21T10:57:30Z",
                 "open_issues": 2,
                 "owner": "district09",
                 "repo": "php_package_qa-drupal",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:42:54.638Z",
+    "last_updated": "2026-09-21T16:01:54.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
