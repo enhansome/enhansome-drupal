@@ -722,11 +722,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T10:05:32Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-23T07:25:25Z",
+                "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38488,
+                "stars": 38500,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -759,11 +759,11 @@
                 "id": 6836299,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T03:32:01Z",
+                "last_commit": "2026-09-23T01:49:26Z",
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10734,
+                "stars": 10739,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T03:45:07Z",
+                "last_commit": "2026-09-23T03:41:30Z",
                 "open_issues": 3,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5854,
+                "stars": 5855,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2149,
+                "stars": 2148,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -885,7 +885,7 @@
                 "open_issues": 16,
                 "owner": "SamJoan",
                 "repo": "droopescan",
-                "stars": 1449,
+                "stars": 1448,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:12:02.141Z",
+    "last_updated": "2026-09-23T14:27:19.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",

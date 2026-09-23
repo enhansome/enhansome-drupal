@@ -459,12 +459,12 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,488 | 🐛 32 | 🌐 Python | 📅 2026-09-20
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,734 | 🐛 1 | 🌐 Perl | 📅 2026-09-22
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,854 | 🐛 3 | 🌐 Python | 📅 2026-09-22
-* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,149 | 🐛 28 | 🌐 Python | 📅 2023-06-07
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,500 | 🐛 31 | 🌐 Python | 📅 2026-09-23
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,739 | 🐛 1 | 🌐 Perl | 📅 2026-09-23
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,855 | 🐛 3 | 🌐 Python | 📅 2026-09-23
+* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,148 | 🐛 28 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,467 | 🐛 0 | 🌐 Python | 📅 2026-09-05
-* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,449 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
+* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,448 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
 <!--lint disable double-link-->
 
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
