@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-22T12:20:05Z",
+            "last_commit": "2026-09-24T13:06:00Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -726,7 +726,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38500,
+                "stars": 38507,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10739,
+                "stars": 10741,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T03:41:30Z",
+                "last_commit": "2026-09-24T13:13:17Z",
                 "open_issues": 3,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5855,
+                "stars": 5857,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -1394,8 +1394,8 @@
                 "id": 292303641,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-21T10:57:30Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-24T08:25:42Z",
+                "open_issues": 1,
                 "owner": "district09",
                 "repo": "php_package_qa-drupal",
                 "stars": 2,
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:27:19.925Z",
+    "last_updated": "2026-09-24T14:27:35.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
