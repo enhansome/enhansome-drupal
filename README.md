@@ -69,7 +69,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 
 ## AI
 
-* [AJV009/awesome-drupal-ai](https://github.com/AJV009/awesome-drupal-ai) ⭐ 23 | 🐛 1 | 📅 2026-03-31 - A collection of AI related stuff for Drupal
+* [AJV009/awesome-drupal-ai](https://github.com/AJV009/awesome-drupal-ai) ⭐ 24 | 🐛 1 | 📅 2026-03-31 - A collection of AI related stuff for Drupal
 * [Drupal AI](https://www.drupal.org/project/ai) - Integrates generative AI services into Drupal.
 * [Drupal AI Initiative](https://www.drupal.org/about/starshot/initiatives/ai) - Starshot initiative exploring AI capabilities in Drupal.
 * [Drupal AI Learners Club](https://www.drupal.org/about/initiatives/ai/drupal-ai-learners-club) - Chat and talks about using AI with Drupal
@@ -393,7 +393,7 @@ Back to [TOC](#contents)
 ### AWS
 
 * [awslabs/aws-refarch-drupal - Running Drupal on AWS](https://github.com/awslabs/aws-refarch-drupal) ⚠️ Archived
-* [awslabs/eb-php-drupal - Deploying drupal on Elastic Beanstalk](https://github.com/awslabs/eb-php-drupal) ⭐ 47 | 🐛 11 | 🌐 PHP | 📅 2022-06-16
+* [awslabs/eb-php-drupal - Deploying drupal on Elastic Beanstalk](https://github.com/awslabs/eb-php-drupal) ⭐ 46 | 🐛 11 | 🌐 PHP | 📅 2022-06-16
 * [soccerties/Drupal-AWS-Ansible - High availability Drupal in AWS using Ansible](https://github.com/soccerties/Drupal-AWS-Ansible) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2016-02-16
 * [Amazon marketplace search: Drupal-8](https://aws.amazon.com/marketplace/search/results?searchTerms=drupal-8)
 
@@ -459,12 +459,12 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,507 | 🐛 31 | 🌐 Python | 📅 2026-09-23
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,741 | 🐛 1 | 🌐 Perl | 📅 2026-09-23
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,857 | 🐛 3 | 🌐 Python | 📅 2026-09-24
-* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,148 | 🐛 28 | 🌐 Python | 📅 2023-06-07
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,518 | 🐛 31 | 🌐 Python | 📅 2026-09-25
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,744 | 🐛 1 | 🌐 Perl | 📅 2026-09-25
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,857 | 🐛 3 | 🌐 Python | 📅 2026-09-25
+* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,149 | 🐛 28 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,467 | 🐛 0 | 🌐 Python | 📅 2026-09-05
-* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,448 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
+* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,450 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
 <!--lint disable double-link-->
 
@@ -523,7 +523,7 @@ Back to [TOC](#contents)
 * [blt/RoboFile.php at 8.9.x · acquia/blt](https://github.com/acquia/blt/blob/8.9.x/RoboFile.php) ⚠️ Archived
 * [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/circleci/.circleci/RoboFile.php) ⚠️ Archived
 * [drupal9ci/RoboFile.php at master · Lullabot/drupal9ci](https://github.com/Lullabot/drupal9ci/blob/master/dist/github-actions/RoboFile.php) ⚠️ Archived
-* [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php) ⭐ 83 | 🐛 100 | 🌐 PHP | 📅 2026-09-22
+* [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php) ⭐ 83 | 🐛 101 | 🌐 PHP | 📅 2026-09-24
 * [openeuropa/task-runner: PHP task runner based on Robo, focused on extensibility.](https://github.com/openeuropa/task-runner) ⭐ 37 | 🐛 1 | 🌐 PHP | 📅 2026-03-02
 * [boedah/robo-drush: Drush CommandStack for Robo Task Runner](https://github.com/boedah/robo-drush) ⭐ 22 | 🐛 1 | 🌐 PHP | 📅 2026-02-05
 * [integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact) ⭐ 21 | 🐛 1 | 🌐 PHP | 📅 2026-09-19
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
