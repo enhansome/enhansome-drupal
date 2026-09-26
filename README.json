@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-24T18:22:56Z",
+            "last_commit": "2026-09-26T08:11:44Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -722,11 +722,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T09:32:35Z",
+                "last_commit": "2026-09-25T15:01:11Z",
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38518,
+                "stars": 38524,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10744,
+                "stars": 10748,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,7 +780,7 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T03:55:55Z",
+                "last_commit": "2026-09-26T06:47:01Z",
                 "open_issues": 3,
                 "owner": "commixproject",
                 "repo": "commix",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2149,
+                "stars": 2148,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1467,
+                "stars": 1466,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:45:02.657Z",
+    "last_updated": "2026-09-26T13:53:37.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
