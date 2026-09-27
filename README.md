@@ -459,9 +459,9 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,524 | 🐛 31 | 🌐 Python | 📅 2026-09-25
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,748 | 🐛 1 | 🌐 Perl | 📅 2026-09-25
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,857 | 🐛 3 | 🌐 Python | 📅 2026-09-26
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,531 | 🐛 31 | 🌐 Python | 📅 2026-09-25
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,747 | 🐛 1 | 🌐 Perl | 📅 2026-09-25
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,860 | 🐛 3 | 🌐 Python | 📅 2026-09-27
 * [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,148 | 🐛 28 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,466 | 🐛 0 | 🌐 Python | 📅 2026-09-05
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,450 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
