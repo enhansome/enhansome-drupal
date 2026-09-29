@@ -120,8 +120,8 @@
             "id": 3193843,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-09-18T15:53:02Z",
-            "open_issues": 488,
+            "last_commit": "2026-09-29T08:03:33Z",
+            "open_issues": 483,
             "owner": "drush-ops",
             "repo": "drush",
             "stars": 2377,
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-28T12:19:37Z",
+            "last_commit": "2026-09-29T14:52:44Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -722,11 +722,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T07:01:34Z",
+                "last_commit": "2026-09-28T20:20:32Z",
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38545,
+                "stars": 38553,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -780,7 +780,7 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T07:34:12Z",
+                "last_commit": "2026-09-29T03:29:27Z",
                 "open_issues": 3,
                 "owner": "commixproject",
                 "repo": "commix",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2149,
+                "stars": 2151,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -885,7 +885,7 @@
                 "open_issues": 16,
                 "owner": "SamJoan",
                 "repo": "droopescan",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -1735,7 +1735,7 @@
                 "id": 66010186,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-06-03T16:39:10Z",
+                "last_commit": "2026-09-29T15:46:10Z",
                 "open_issues": 9,
                 "owner": "thinkshout",
                 "repo": "robo-drupal",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:49:26.521Z",
+    "last_updated": "2026-09-29T16:08:16.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
