@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-03T05:33:28Z",
+            "last_commit": "2026-10-04T09:07:52Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -726,7 +726,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38592,
+                "stars": 38603,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -759,7 +759,7 @@
                 "id": 6836299,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T03:26:01Z",
+                "last_commit": "2026-10-04T02:03:49Z",
                 "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T09:30:29Z",
+                "last_commit": "2026-10-04T06:40:46Z",
                 "open_issues": 3,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5868,
+                "stars": 5869,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1470,
+                "stars": 1472,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:25:28.695Z",
+    "last_updated": "2026-10-04T14:59:47.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
