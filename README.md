@@ -147,7 +147,7 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
-* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,377 | 🐛 486 | 🌐 PHP | 📅 2026-09-29
+* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,376 | 🐛 486 | 🌐 PHP | 📅 2026-09-29
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 194 | 🐛 0 | 🌐 PHP | 📅 2026-10-09
@@ -459,10 +459,10 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,640 | 🐛 31 | 🌐 Python | 📅 2026-10-05
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,763 | 🐛 0 | 🌐 Perl | 📅 2026-10-04
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,875 | 🐛 1 | 🌐 Python | 📅 2026-10-09
-* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,149 | 🐛 28 | 🌐 Python | 📅 2023-06-07
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,645 | 🐛 31 | 🌐 Python | 📅 2026-10-10
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,765 | 🐛 0 | 🌐 Perl | 📅 2026-10-10
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,875 | 🐛 1 | 🌐 Python | 📅 2026-10-10
+* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,150 | 🐛 28 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,469 | 🐛 0 | 🌐 Python | 📅 2026-09-05
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,452 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
