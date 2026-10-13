@@ -354,7 +354,7 @@ Back to [TOC](#contents)
 
 ## Marketing
 
-* [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal) ⭐ 26 | 🐛 19 | 📅 2026-10-09
+* [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal) ⭐ 26 | 🐛 19 | 📅 2026-10-13
 * [Promote Drupal Group](https://www.drupal.org/community/promote-drupal)
 * [Promote Drupal - project](https://www.drupal.org/project/promote_drupal)
 * [stackshare.io/drupal](https://stackshare.io/drupal)
@@ -459,9 +459,9 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,655 | 🐛 31 | 🌐 Python | 📅 2026-10-11
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,768 | 🐛 0 | 🌐 Perl | 📅 2026-10-10
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,877 | 🐛 1 | 🌐 Python | 📅 2026-10-12
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,674 | 🐛 31 | 🌐 Python | 📅 2026-10-11
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,770 | 🐛 0 | 🌐 Perl | 📅 2026-10-13
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,881 | 🐛 1 | 🌐 Python | 📅 2026-10-13
 * [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,152 | 🐛 28 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,470 | 🐛 0 | 🌐 Python | 📅 2026-09-05
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,452 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
