@@ -150,7 +150,7 @@ Back to [TOC](#contents)
 * [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,376 | 🐛 487 | 🌐 PHP | 📅 2026-09-29
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
-* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 194 | 🐛 0 | 🌐 PHP | 📅 2026-10-14
+* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-10-15
 * [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml) ⭐ 192 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [drupal\_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti) ⭐ 80 | 🐛 27 | 🌐 Shell | 📅 2021-02-05
 * [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins) ⭐ 41 | 🐛 0 | 📅 2018-02-26
@@ -459,10 +459,10 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,680 | 🐛 31 | 🌐 Python | 📅 2026-10-11
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,773 | 🐛 0 | 🌐 Perl | 📅 2026-10-14
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,884 | 🐛 1 | 🌐 Python | 📅 2026-10-14
-* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,152 | 🐛 28 | 🌐 Python | 📅 2023-06-07
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,688 | 🐛 31 | 🌐 Python | 📅 2026-10-11
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,775 | 🐛 1 | 🌐 Perl | 📅 2026-10-14
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,885 | 🐛 0 | 🌐 Python | 📅 2026-10-15
+* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,151 | 🐛 28 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,470 | 🐛 0 | 🌐 Python | 📅 2026-09-05
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,452 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
@@ -526,7 +526,7 @@ Back to [TOC](#contents)
 * [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php) ⭐ 83 | 🐛 100 | 🌐 PHP | 📅 2026-10-09
 * [openeuropa/task-runner: PHP task runner based on Robo, focused on extensibility.](https://github.com/openeuropa/task-runner) ⭐ 37 | 🐛 1 | 🌐 PHP | 📅 2026-10-06
 * [boedah/robo-drush: Drush CommandStack for Robo Task Runner](https://github.com/boedah/robo-drush) ⭐ 22 | 🐛 1 | 🌐 PHP | 📅 2026-02-05
-* [integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact) ⭐ 21 | 🐛 1 | 🌐 PHP | 📅 2026-10-08
+* [integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact) ⭐ 21 | 🐛 1 | 🌐 PHP | 📅 2026-10-15
 * [drupal8-github-actions/RoboFile.php at master · juampynr/drupal8-github-actions](https://github.com/juampynr/drupal8-github-actions/blob/master/RoboFile.php) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2020-03-29
 * [drupal8\_base/RoboFile.php at master · vincenzodibiaggio/drupal8\_base](https://github.com/vincenzodibiaggio/drupal8_base/blob/master/RoboFile.php) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2016-12-04
 * [digipolisgent/robo-drupal-console: Drupal Console CommandStack for Robo Task Runner](https://github.com/digipolisgent/robo-drupal-console) ⭐ 8 | 🐛 2 | 🌐 PHP | 📅 2019-08-13
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

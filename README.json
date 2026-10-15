@@ -197,11 +197,11 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-14T06:52:47Z",
+            "last_commit": "2026-10-15T10:02:04Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
-            "stars": 194,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.418Z"
@@ -726,7 +726,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38680,
+                "stars": 38688,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -760,10 +760,10 @@
                 "language": "Perl",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-14T05:00:26Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10773,
+                "stars": 10775,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T03:29:59Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-15T05:27:52Z",
+                "open_issues": 0,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5884,
+                "stars": 5885,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2152,
+                "stars": 2151,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -1604,7 +1604,7 @@
                 "id": 102357490,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T23:26:52Z",
+                "last_commit": "2026-10-15T02:29:50Z",
                 "open_issues": 1,
                 "owner": "drevops",
                 "repo": "git-artifact",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:41:01.063Z",
+    "last_updated": "2026-10-15T14:25:53.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
