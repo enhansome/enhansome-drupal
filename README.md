@@ -150,7 +150,7 @@ Back to [TOC](#contents)
 * [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,376 | 🐛 487 | 🌐 PHP | 📅 2026-09-29
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
-* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-10-15
+* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-10-16
 * [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml) ⭐ 192 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [drupal\_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti) ⭐ 80 | 🐛 27 | 🌐 Shell | 📅 2021-02-05
 * [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins) ⭐ 41 | 🐛 0 | 📅 2018-02-26
@@ -459,11 +459,11 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,688 | 🐛 31 | 🌐 Python | 📅 2026-10-11
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,775 | 🐛 1 | 🌐 Perl | 📅 2026-10-14
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,885 | 🐛 0 | 🌐 Python | 📅 2026-10-15
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,712 | 🐛 31 | 🌐 Python | 📅 2026-10-16
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,777 | 🐛 0 | 🌐 Perl | 📅 2026-10-15
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,884 | 🐛 0 | 🌐 Python | 📅 2026-10-16
 * [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,151 | 🐛 28 | 🌐 Python | 📅 2023-06-07
-* [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,470 | 🐛 0 | 🌐 Python | 📅 2026-09-05
+* [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,471 | 🐛 0 | 🌐 Python | 📅 2026-09-05
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,452 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
 <!--lint disable double-link-->
@@ -475,8 +475,8 @@ Back to [TOC](#contents)
 ## Scaffolding Tools
 
 * [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold) ⭐ 192 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
-* [Yeoman generator for Drupal 8 Themes](https://github.com/mediacurrent/theme_generator_8) ⭐ 99 | 🐛 17 | 🌐 JavaScript | 📅 2023-03-04
 * [Scaffold a headless Drupal backend, Angular app client and Behat tests](https://github.com/Gizra/generator-hedley) ⭐ 98 | 🐛 44 | 🌐 Shell | 📅 2017-01-02
+* [Yeoman generator for Drupal 8 Themes](https://github.com/mediacurrent/theme_generator_8) ⭐ 98 | 🐛 17 | 🌐 JavaScript | 📅 2023-03-04
 * [Yeoman MarionetteJS + Drupal generator](https://github.com/enzolutions/generator-marionette-drupal) ⭐ 47 | 🐛 2 | 🌐 JavaScript | 📅 2015-05-18
 * [LCM Drupal 8 Scaffolding](https://github.com/LastCallMedia/Drupal-Scaffold) ⭐ 45 | 🐛 25 | 🌐 PHP | 📅 2024-06-17
 * [Yeoman generator for a Drupal theme](https://github.com/pixelmord/generator-drupaltheme) ⚠️ Archived
@@ -506,7 +506,7 @@ Back to [TOC](#contents)
 * [alexpott/d8githooks: Drupal core committer Git hooks](https://github.com/alexpott/d8githooks) ⭐ 58 | 🐛 6 | 🌐 Shell | 📅 2026-10-02
 * [vijaycs85/drupal-quality-checker](https://github.com/vijaycs85/drupal-quality-checker) ⭐ 51 | 🐛 14 | 📅 2023-05-12
 * [drupol/drupal-conventions: Check (and fix) your code against Drupal's code conventions and coding standard.](https://github.com/drupol/drupal-conventions) ⭐ 24 | 🐛 4 | 🌐 PHP | 📅 2022-03-29
-* [andrewmriley/drupal-site-precommit: Scripts to have Git check your commits for Drupal debugging code](https://github.com/andrewmriley/drupal-site-precommit) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2015-12-08
+* [andrewmriley/drupal-site-precommit: Scripts to have Git check your commits for Drupal debugging code](https://github.com/andrewmriley/drupal-site-precommit) ⭐ 8 | 🐛 1 | 🌐 PHP | 📅 2015-12-08
 * [jover/drupal-code-check: A Git pre-commit hook to check Drupal Coding Standards and more.](https://github.com/jover/drupal-code-check) ⭐ 4 | 🐛 2 | 🌐 PHP | 📅 2017-05-05
 * [code-review/base-conventions.yml at 1.x · openeuropa/code-review](https://github.com/openeuropa/code-review/blob/1.x/dist/base-conventions.yml) ⭐ 2 | 🐛 3 | 📅 2026-05-05
 * [district09/php\_package\_qa-drupal: Digipolis QA for PHP](https://github.com/district09/php_package_qa-drupal) ⭐ 2 | 🐛 1 | 🌐 PHP | 📅 2026-09-24
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
