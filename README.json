@@ -121,7 +121,7 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-09-29T08:03:33Z",
-            "open_issues": 488,
+            "open_issues": 487,
             "owner": "drush-ops",
             "repo": "drush",
             "stars": 2376,
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-19T15:39:04Z",
+            "last_commit": "2026-10-20T12:21:54Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -722,11 +722,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T16:38:02Z",
+                "last_commit": "2026-10-20T08:07:38Z",
                 "open_issues": 15,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38739,
+                "stars": 38748,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 0,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10781,
+                "stars": 10785,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,7 +780,7 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T06:11:50Z",
+                "last_commit": "2026-10-20T05:52:57Z",
                 "open_issues": 0,
                 "owner": "commixproject",
                 "repo": "commix",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2151,
+                "stars": 2152,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -959,7 +959,7 @@
             "open_issues": 17,
             "owner": "current-agency",
             "repo": "theme_generator_8",
-            "stars": 98,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.418Z"
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:38:45.757Z",
+    "last_updated": "2026-10-20T14:30:25.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",

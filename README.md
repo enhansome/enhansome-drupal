@@ -147,10 +147,10 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
-* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,376 | 🐛 488 | 🌐 PHP | 📅 2026-09-29
+* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,376 | 🐛 487 | 🌐 PHP | 📅 2026-09-29
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 353 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
-* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-10-19
+* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-10-20
 * [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml) ⭐ 192 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [drupal\_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti) ⭐ 80 | 🐛 27 | 🌐 Shell | 📅 2021-02-05
 * [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins) ⭐ 41 | 🐛 0 | 📅 2018-02-26
@@ -459,10 +459,10 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,739 | 🐛 15 | 🌐 Python | 📅 2026-10-19
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,781 | 🐛 0 | 🌐 Perl | 📅 2026-10-15
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,890 | 🐛 0 | 🌐 Python | 📅 2026-10-19
-* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,151 | 🐛 28 | 🌐 Python | 📅 2023-06-07
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,748 | 🐛 15 | 🌐 Python | 📅 2026-10-20
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,785 | 🐛 0 | 🌐 Perl | 📅 2026-10-15
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,890 | 🐛 0 | 🌐 Python | 📅 2026-10-20
+* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,152 | 🐛 28 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,473 | 🐛 0 | 🌐 Python | 📅 2026-09-05
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,452 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
@@ -476,7 +476,7 @@ Back to [TOC](#contents)
 
 * [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold) ⭐ 192 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [Scaffold a headless Drupal backend, Angular app client and Behat tests](https://github.com/Gizra/generator-hedley) ⭐ 98 | 🐛 44 | 🌐 Shell | 📅 2017-01-02
-* [Yeoman generator for Drupal 8 Themes](https://github.com/mediacurrent/theme_generator_8) ⭐ 98 | 🐛 17 | 🌐 JavaScript | 📅 2023-03-04
+* [Yeoman generator for Drupal 8 Themes](https://github.com/mediacurrent/theme_generator_8) ⭐ 97 | 🐛 17 | 🌐 JavaScript | 📅 2023-03-04
 * [Yeoman MarionetteJS + Drupal generator](https://github.com/enzolutions/generator-marionette-drupal) ⭐ 47 | 🐛 2 | 🌐 JavaScript | 📅 2015-05-18
 * [LCM Drupal 8 Scaffolding](https://github.com/LastCallMedia/Drupal-Scaffold) ⭐ 45 | 🐛 25 | 🌐 PHP | 📅 2024-06-17
 * [Yeoman generator for a Drupal theme](https://github.com/pixelmord/generator-drupaltheme) ⚠️ Archived
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
