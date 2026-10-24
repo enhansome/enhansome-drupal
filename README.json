@@ -121,10 +121,10 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-09-29T08:03:33Z",
-            "open_issues": 492,
+            "open_issues": 494,
             "owner": "drush-ops",
             "repo": "drush",
-            "stars": 2376,
+            "stars": 2375,
             "topics": [
               "circleci",
               "cli",
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-23T13:05:14Z",
+            "last_commit": "2026-10-23T21:18:05Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -341,7 +341,7 @@
                 "open_issues": 25,
                 "owner": "systemseed",
                 "repo": "drupal_reactjs_boilerplate",
-                "stars": 84,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -362,7 +362,7 @@
                 "open_issues": 35,
                 "owner": "DrupalizeMe",
                 "repo": "react-and-drupal-examples",
-                "stars": 61,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -726,7 +726,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38772,
+                "stars": 38773,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 0,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10794,
+                "stars": 10798,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T05:13:22Z",
+                "last_commit": "2026-10-24T05:35:32Z",
                 "open_issues": 0,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5894,
+                "stars": 5893,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2152,
+                "stars": 2151,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1473,
+                "stars": 1474,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -1604,7 +1604,7 @@
                 "id": 102357490,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T01:45:47Z",
+                "last_commit": "2026-10-23T23:28:00Z",
                 "open_issues": 1,
                 "owner": "drevops",
                 "repo": "git-artifact",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:27:50.250Z",
+    "last_updated": "2026-10-24T13:37:04.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
