@@ -121,7 +121,7 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-09-29T08:03:33Z",
-            "open_issues": 494,
+            "open_issues": 493,
             "owner": "drush-ops",
             "repo": "drush",
             "stars": 2375,
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-28T13:25:44Z",
+            "last_commit": "2026-10-29T13:21:49Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -722,11 +722,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T12:47:08Z",
+                "last_commit": "2026-10-29T13:24:22Z",
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38815,
+                "stars": 38811,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 0,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10810,
+                "stars": 10813,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T06:10:00Z",
+                "last_commit": "2026-10-29T13:39:47Z",
                 "open_issues": 0,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5897,
+                "stars": 5895,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2152,
+                "stars": 2151,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:17:08.332Z",
+    "last_updated": "2026-10-29T16:25:19.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
@@ -2021,7 +2021,7 @@
       "id": 56270343,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-19T05:19:20Z",
+      "last_commit": "2026-10-29T15:41:35Z",
       "open_issues": 2,
       "owner": "theodorosploumis",
       "repo": "awesome-drupal",
@@ -2036,7 +2036,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "4f2144527682d981a363715709665428e8ba2ff9",
+    "original_repository_sha": "4eced83f16b2bb8796cd81592098aa34da731426",
     "enhanced_repository": "enhansome/enhansome-drupal",
     "enhanced_repository_description": null,
     "title": "Awesome Drupal with stars"
