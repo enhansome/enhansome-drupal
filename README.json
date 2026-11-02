@@ -153,7 +153,7 @@
             "open_issues": 32,
             "owner": "drupalcommerce",
             "repo": "commerce",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "drupal",
               "drupal-commerce"
@@ -177,7 +177,7 @@
             "open_issues": 32,
             "owner": "drupalcommerce",
             "repo": "commerce",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "drupal",
               "drupal-commerce"
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-31T05:44:27Z",
+            "last_commit": "2026-11-02T12:58:15Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -722,11 +722,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T16:31:42Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-02T10:13:45Z",
+                "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38827,
+                "stars": 38830,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -759,11 +759,11 @@
                 "id": 6836299,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T19:08:06Z",
+                "last_commit": "2026-11-02T03:44:44Z",
                 "open_issues": 0,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10818,
+                "stars": 10823,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T06:26:45Z",
+                "last_commit": "2026-11-02T06:26:21Z",
                 "open_issues": 0,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5898,
+                "stars": 5899,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2160,
+                "stars": 2162,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1477,
+                "stars": 1478,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -1535,8 +1535,8 @@
                 "id": 250256146,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-11-01T10:25:50Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-02T12:27:57Z",
+                "open_issues": 62,
                 "owner": "Gizra",
                 "repo": "drupal-starter",
                 "stars": 83,
@@ -1604,7 +1604,7 @@
                 "id": 102357490,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T12:51:02Z",
+                "last_commit": "2026-11-02T12:03:32Z",
                 "open_issues": 1,
                 "owner": "drevops",
                 "repo": "git-artifact",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:26:00.393Z",
+    "last_updated": "2026-11-02T19:48:46.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
