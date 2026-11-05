@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-04T15:07:30Z",
+            "last_commit": "2026-11-05T11:11:32Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -726,7 +726,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38848,
+                "stars": 38865,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 0,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10829,
+                "stars": 10832,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,7 +780,7 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T04:22:12Z",
+                "last_commit": "2026-11-05T06:44:51Z",
                 "open_issues": 1,
                 "owner": "commixproject",
                 "repo": "commix",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2163,
+                "stars": 2162,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1480,
+                "stars": 1479,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -885,7 +885,7 @@
                 "open_issues": 16,
                 "owner": "SamJoan",
                 "repo": "droopescan",
-                "stars": 1455,
+                "stars": 1454,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -1268,8 +1268,8 @@
                 "id": 11910643,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2026-10-02T13:31:21Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-05T09:42:44Z",
+                "open_issues": 5,
                 "owner": "alexpott",
                 "repo": "d8githooks",
                 "stars": 58,
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:33:23.939Z",
+    "last_updated": "2026-11-05T17:39:51.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
