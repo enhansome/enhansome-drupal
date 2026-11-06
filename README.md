@@ -69,7 +69,7 @@ Want to add/edit a link. Please follow the [Contribution guidelines](contributin
 
 ## AI
 
-* [AJV009/awesome-drupal-ai](https://github.com/AJV009/awesome-drupal-ai) ⭐ 25 | 🐛 1 | 📅 2026-03-31 - A collection of AI related stuff for Drupal
+* [AJV009/awesome-drupal-ai](https://github.com/AJV009/awesome-drupal-ai) ⭐ 25 | 🐛 0 | 📅 2026-11-06 - A collection of AI related stuff for Drupal
 * [Drupal AI](https://www.drupal.org/project/ai) - Integrates generative AI services into Drupal.
 * [Drupal AI Initiative](https://www.drupal.org/about/starshot/initiatives/ai) - Starshot initiative exploring AI capabilities in Drupal.
 * [Drupal AI Learners Club](https://www.drupal.org/about/initiatives/ai/drupal-ai-learners-club) - Chat and talks about using AI with Drupal
@@ -147,10 +147,10 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
-* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,375 | 🐛 494 | 🌐 PHP | 📅 2026-09-29
+* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,374 | 🐛 494 | 🌐 PHP | 📅 2026-09-29
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 354 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 354 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
-* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-11-05
+* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-11-06
 * [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml) ⭐ 192 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [drupal\_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti) ⭐ 80 | 🐛 27 | 🌐 Shell | 📅 2021-02-05
 * [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins) ⭐ 41 | 🐛 0 | 📅 2018-02-26
@@ -354,7 +354,7 @@ Back to [TOC](#contents)
 
 ## Marketing
 
-* [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal) ⭐ 27 | 🐛 19 | 📅 2026-10-21
+* [theodorosploumis/notes - selling-drupal](https://github.com/theodorosploumis/notes/tree/master/drupal/selling-drupal) ⭐ 27 | 🐛 19 | 📅 2026-11-06
 * [Promote Drupal Group](https://www.drupal.org/community/promote-drupal)
 * [Promote Drupal - project](https://www.drupal.org/project/promote_drupal)
 * [stackshare.io/drupal](https://stackshare.io/drupal)
@@ -459,12 +459,12 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,865 | 🐛 14 | 🌐 Python | 📅 2026-11-04
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,832 | 🐛 0 | 🌐 Perl | 📅 2026-11-02
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,897 | 🐛 1 | 🌐 Python | 📅 2026-11-05
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,870 | 🐛 15 | 🌐 Python | 📅 2026-11-06
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,833 | 🐛 0 | 🌐 Perl | 📅 2026-11-06
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,897 | 🐛 0 | 🌐 Python | 📅 2026-11-06
 * [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,162 | 🐛 28 | 🌐 Python | 📅 2023-06-07
-* [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,479 | 🐛 0 | 🌐 Python | 📅 2026-09-05
-* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,454 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
+* [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,480 | 🐛 0 | 🌐 Python | 📅 2026-09-05
+* [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,453 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
 <!--lint disable double-link-->
 
@@ -503,7 +503,7 @@ Back to [TOC](#contents)
 
 > Several examples of Git hooks (pre-commit etc) related to Drupal.
 
-* [alexpott/d8githooks: Drupal core committer Git hooks](https://github.com/alexpott/d8githooks) ⭐ 58 | 🐛 5 | 🌐 Shell | 📅 2026-11-05
+* [alexpott/d8githooks: Drupal core committer Git hooks](https://github.com/alexpott/d8githooks) ⭐ 58 | 🐛 4 | 🌐 Shell | 📅 2026-11-06
 * [vijaycs85/drupal-quality-checker](https://github.com/vijaycs85/drupal-quality-checker) ⭐ 51 | 🐛 14 | 📅 2023-05-12
 * [drupol/drupal-conventions: Check (and fix) your code against Drupal's code conventions and coding standard.](https://github.com/drupol/drupal-conventions) ⭐ 24 | 🐛 4 | 🌐 PHP | 📅 2022-03-29
 * [andrewmriley/drupal-site-precommit: Scripts to have Git check your commits for Drupal debugging code](https://github.com/andrewmriley/drupal-site-precommit) ⭐ 8 | 🐛 1 | 🌐 PHP | 📅 2015-12-08
@@ -526,7 +526,7 @@ Back to [TOC](#contents)
 * [drupal-starter/RoboFile.php at main · Gizra/drupal-starter](https://github.com/Gizra/drupal-starter/blob/main/RoboFile.php) ⭐ 83 | 🐛 63 | 🌐 PHP | 📅 2026-11-04
 * [openeuropa/task-runner: PHP task runner based on Robo, focused on extensibility.](https://github.com/openeuropa/task-runner) ⭐ 37 | 🐛 0 | 🌐 PHP | 📅 2026-10-06
 * [boedah/robo-drush: Drush CommandStack for Robo Task Runner](https://github.com/boedah/robo-drush) ⭐ 22 | 🐛 1 | 🌐 PHP | 📅 2026-02-05
-* [integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact) ⭐ 21 | 🐛 1 | 🌐 PHP | 📅 2026-11-04
+* [integratedexperts/robo-git-artefact: Robo task to push Git artefact to remote repository](https://github.com/integratedexperts/robo-git-artefact) ⭐ 21 | 🐛 1 | 🌐 PHP | 📅 2026-11-06
 * [drupal8-github-actions/RoboFile.php at master · juampynr/drupal8-github-actions](https://github.com/juampynr/drupal8-github-actions/blob/master/RoboFile.php) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2020-03-29
 * [drupal8\_base/RoboFile.php at master · vincenzodibiaggio/drupal8\_base](https://github.com/vincenzodibiaggio/drupal8_base/blob/master/RoboFile.php) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2016-12-04
 * [digipolisgent/robo-drupal-console: Drupal Console CommandStack for Robo Task Runner](https://github.com/digipolisgent/robo-drupal-console) ⭐ 8 | 🐛 2 | 🌐 PHP | 📅 2019-08-13
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
