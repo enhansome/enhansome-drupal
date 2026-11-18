@@ -120,8 +120,8 @@
             "id": 3193843,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-11-17T13:43:28Z",
-            "open_issues": 484,
+            "last_commit": "2026-11-18T17:05:47Z",
+            "open_issues": 485,
             "owner": "drush-ops",
             "repo": "drush",
             "stars": 2375,
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-17T14:07:22Z",
+            "last_commit": "2026-11-18T17:35:58Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -726,7 +726,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38975,
+                "stars": 38984,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 0,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10860,
+                "stars": 10865,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T04:22:28Z",
+                "last_commit": "2026-11-18T04:47:10Z",
                 "open_issues": 0,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5909,
+                "stars": 5910,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1483,
+                "stars": 1482,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:46:08.811Z",
+    "last_updated": "2026-11-18T18:25:08.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
