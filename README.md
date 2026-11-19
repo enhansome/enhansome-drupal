@@ -147,11 +147,11 @@ Back to [TOC](#contents)
 
 ## CI template examples
 
-* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,375 | 🐛 485 | 🌐 PHP | 📅 2026-11-18
+* [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,375 | 🐛 484 | 🌐 PHP | 📅 2026-11-18
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 354 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 354 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
-* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-11-18
-* [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml) ⭐ 192 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
+* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-11-19
+* [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml) ⭐ 191 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [drupal\_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti) ⭐ 80 | 🐛 27 | 🌐 Shell | 📅 2021-02-05
 * [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins) ⭐ 41 | 🐛 0 | 📅 2018-02-26
 * [drupal core - GitLab CI](https://git.drupalcode.org/project/drupal/-/tree/11.x/.gitlab-ci)
@@ -459,11 +459,11 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,984 | 🐛 14 | 🌐 Python | 📅 2026-11-12
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,865 | 🐛 0 | 🌐 Perl | 📅 2026-11-15
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,910 | 🐛 0 | 🌐 Python | 📅 2026-11-18
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,987 | 🐛 14 | 🌐 Python | 📅 2026-11-19
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,866 | 🐛 3 | 🌐 Perl | 📅 2026-11-15
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,913 | 🐛 0 | 🌐 Python | 📅 2026-11-19
 * [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,168 | 🐛 28 | 🌐 Python | 📅 2023-06-07
-* [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,482 | 🐛 0 | 🌐 Python | 📅 2026-09-05
+* [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,483 | 🐛 0 | 🌐 Python | 📅 2026-09-05
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,454 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
 <!--lint disable double-link-->
@@ -474,7 +474,7 @@ Back to [TOC](#contents)
 
 ## Scaffolding Tools
 
-* [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold) ⭐ 192 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
+* [Composer Plugin for updating the Drupal scaffold files when using drupal/core](https://github.com/drupal-composer/drupal-scaffold) ⭐ 191 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [Scaffold a headless Drupal backend, Angular app client and Behat tests](https://github.com/Gizra/generator-hedley) ⭐ 98 | 🐛 44 | 🌐 Shell | 📅 2017-01-02
 * [Yeoman generator for Drupal 8 Themes](https://github.com/mediacurrent/theme_generator_8) ⭐ 97 | 🐛 17 | 🌐 JavaScript | 📅 2023-03-04
 * [Yeoman MarionetteJS + Drupal generator](https://github.com/enzolutions/generator-marionette-drupal) ⭐ 47 | 🐛 2 | 🌐 JavaScript | 📅 2015-05-18
@@ -531,7 +531,7 @@ Back to [TOC](#contents)
 * [drupal8\_base/RoboFile.php at master · vincenzodibiaggio/drupal8\_base](https://github.com/vincenzodibiaggio/drupal8_base/blob/master/RoboFile.php) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2016-12-04
 * [digipolisgent/robo-drupal-console: Drupal Console CommandStack for Robo Task Runner](https://github.com/digipolisgent/robo-drupal-console) ⭐ 8 | 🐛 2 | 🌐 PHP | 📅 2019-08-13
 * [drupal8-travis-ci/RoboFile.php at master · juampynr/drupal8-travis-ci](https://github.com/juampynr/drupal8-travis-ci/blob/master/.travis/RoboFile.php) ⭐ 6 | 🐛 3 | 🌐 PHP | 📅 2018-04-02
-* [robo-drupal/Tasks.php at production · thinkshout/robo-drupal](https://github.com/thinkshout/robo-drupal/blob/production/src/Tasks.php) ⭐ 6 | 🐛 9 | 🌐 PHP | 📅 2026-11-12
+* [robo-drupal/Tasks.php at production · thinkshout/robo-drupal](https://github.com/thinkshout/robo-drupal/blob/production/src/Tasks.php) ⭐ 6 | 🐛 9 | 🌐 PHP | 📅 2026-11-19
 * [LandoStand-Drupal/RoboFile.php at master · mobomo/LandoStand-Drupal](https://github.com/mobomo/LandoStand-Drupal/blob/master/RoboFile.php) ⭐ 1 | 🐛 7 | 🌐 PHP | 📅 2024-11-25
 * [amarie88/robo-drupal-coding: Drupal coding command for Robo Task Runner.](https://github.com/amarie88/robo-drupal-coding) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2023-11-14
 * [Sweetchuck/robo-drush](https://github.com/Sweetchuck/robo-drush) ⭐ 0 | 🐛 2 | 🌐 PHP | 📅 2024-12-03
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

@@ -120,8 +120,8 @@
             "id": 3193843,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-11-18T17:05:47Z",
-            "open_issues": 485,
+            "last_commit": "2026-11-18T18:56:02Z",
+            "open_issues": 484,
             "owner": "drush-ops",
             "repo": "drush",
             "stars": 2375,
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-18T17:35:58Z",
+            "last_commit": "2026-11-19T14:47:48Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -222,7 +222,7 @@
             "open_issues": 25,
             "owner": "drupal-composer",
             "repo": "drupal-scaffold",
-            "stars": 192,
+            "stars": 191,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.418Z"
@@ -722,11 +722,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T19:53:44Z",
+                "last_commit": "2026-11-19T14:06:33Z",
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38984,
+                "stars": 38987,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -760,10 +760,10 @@
                 "language": "Perl",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-15T21:28:14Z",
-                "open_issues": 0,
+                "open_issues": 3,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10865,
+                "stars": 10866,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T04:47:10Z",
+                "last_commit": "2026-11-19T12:33:11Z",
                 "open_issues": 0,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5910,
+                "stars": 5913,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1482,
+                "stars": 1483,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -917,7 +917,7 @@
             "open_issues": 25,
             "owner": "drupal-composer",
             "repo": "drupal-scaffold",
-            "stars": 192,
+            "stars": 191,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:26.418Z"
@@ -1735,7 +1735,7 @@
                 "id": 66010186,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-12T18:51:21Z",
+                "last_commit": "2026-11-19T15:18:31Z",
                 "open_issues": 9,
                 "owner": "thinkshout",
                 "repo": "robo-drupal",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:25:08.092Z",
+    "last_updated": "2026-11-19T18:41:20.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
@@ -2025,7 +2025,7 @@
       "open_issues": 4,
       "owner": "theodorosploumis",
       "repo": "awesome-drupal",
-      "stars": 53,
+      "stars": 54,
       "topics": [
         "awesome",
         "awesome-list",
