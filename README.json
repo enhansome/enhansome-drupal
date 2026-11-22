@@ -723,10 +723,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-19T14:06:33Z",
-                "open_issues": 15,
+                "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 39006,
+                "stars": 39014,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 0,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10869,
+                "stars": 10871,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,7 +780,7 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T08:01:42Z",
+                "last_commit": "2026-11-22T08:26:42Z",
                 "open_issues": 0,
                 "owner": "commixproject",
                 "repo": "commix",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2167,
+                "stars": 2168,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -885,7 +885,7 @@
                 "open_issues": 16,
                 "owner": "SamJoan",
                 "repo": "droopescan",
-                "stars": 1453,
+                "stars": 1454,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:57:47.229Z",
+    "last_updated": "2026-11-22T17:24:42.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
