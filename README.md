@@ -150,7 +150,7 @@ Back to [TOC](#contents)
 * [drush - CircleCI](https://github.com/drush-ops/drush/blob/HEAD/.circleci/config.yml) ⭐ 2,374 | 🐛 480 | 🌐 PHP | 📅 2026-11-18
 * [drupalcommerce/commerce - .travis.yml](https://github.com/drupalcommerce/commerce/blob/HEAD/.travis.yml) ⭐ 354 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
 * [drupalcommerce/commerce - phpcs.xml](https://github.com/drupalcommerce/commerce/blob/HEAD/phpcs.xml) ⭐ 354 | 🐛 32 | 🌐 PHP | 📅 2020-10-06
-* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-11-21
+* [drupal core - phpcs.xml.dist](https://github.com/drupal/core/blob/HEAD/phpcs.xml.dist) ⭐ 195 | 🐛 0 | 🌐 PHP | 📅 2026-11-23
 * [drupal-composer/drupal-scaffold - .travis.yml](https://github.com/drupal-composer/drupal-scaffold/blob/master/.travis.yml) ⭐ 191 | 🐛 25 | 🌐 PHP | 📅 2020-09-17
 * [drupal\_ti - Travis Integration for Drupal modules](https://github.com/LionsAd/drupal_ti) ⭐ 80 | 🐛 27 | 🌐 Shell | 📅 2021-02-05
 * [Jenkins and SonarQube Drupal CI and Static Code Analysis](https://github.com/geerlingguy/drupalci-sonar-jenkins) ⭐ 41 | 🐛 0 | 📅 2018-02-26
@@ -459,10 +459,10 @@ Back to [TOC](#contents)
 
 > Several security validation and penetration tools to help you create a secure Drupal website
 
-* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,014 | 🐛 14 | 🌐 Python | 📅 2026-11-19
-* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,871 | 🐛 0 | 🌐 Perl | 📅 2026-11-15
-* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,914 | 🐛 0 | 🌐 Python | 📅 2026-11-22
-* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,168 | 🐛 28 | 🌐 Python | 📅 2023-06-07
+* [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,022 | 🐛 15 | 🌐 Python | 📅 2026-11-19
+* [sullo/nikto](https://github.com/sullo/nikto) ⭐ 10,875 | 🐛 0 | 🌐 Perl | 📅 2026-11-15
+* [commixproject/commix](https://github.com/commixproject/commix) ⭐ 5,915 | 🐛 0 | 🌐 Python | 📅 2026-11-23
+* [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) ⭐ 2,169 | 🐛 28 | 🌐 Python | 📅 2023-06-07
 * [epsylon/xsser](https://github.com/epsylon/xsser) ⭐ 1,482 | 🐛 0 | 🌐 Python | 📅 2026-09-05
 * [droope/droopescan](https://github.com/droope/droopescan) ⭐ 1,454 | 🐛 16 | 🌐 HTML | 📅 2024-01-19
 
@@ -651,4 +651,4 @@ Maintained since **2016**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
