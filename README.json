@@ -124,7 +124,7 @@
             "open_issues": 480,
             "owner": "drush-ops",
             "repo": "drush",
-            "stars": 2374,
+            "stars": 2375,
             "topics": [
               "circleci",
               "cli",
@@ -197,7 +197,7 @@
             "id": 85152549,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-25T17:55:12Z",
+            "last_commit": "2026-11-26T17:45:22Z",
             "open_issues": 0,
             "owner": "drupal",
             "repo": "core",
@@ -726,7 +726,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 39042,
+                "stars": 39055,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -763,7 +763,7 @@
                 "open_issues": 0,
                 "owner": "sullo",
                 "repo": "nikto",
-                "stars": 10875,
+                "stars": 10881,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:26.418Z"
@@ -780,11 +780,11 @@
                 "id": 32572504,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T04:38:28Z",
+                "last_commit": "2026-11-26T11:22:25Z",
                 "open_issues": 0,
                 "owner": "commixproject",
                 "repo": "commix",
-                "stars": 5916,
+                "stars": 5917,
                 "topics": [
                   "bugbounty",
                   "command-injection",
@@ -816,7 +816,7 @@
                 "open_issues": 28,
                 "owner": "anouarbensaad",
                 "repo": "vulnx",
-                "stars": 2170,
+                "stars": 2172,
                 "topics": [
                   "auto-exploiter",
                   "bot",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "epsylon",
                 "repo": "xsser",
-                "stars": 1484,
+                "stars": 1485,
                 "topics": [
                   "exploiting",
                   "pentesting",
@@ -1604,7 +1604,7 @@
                 "id": 102357490,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-25T01:53:29Z",
+                "last_commit": "2026-11-25T21:10:41Z",
                 "open_issues": 2,
                 "owner": "drevops",
                 "repo": "git-artifact",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:36:17.411Z",
+    "last_updated": "2026-11-26T19:17:44.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources, tools, books, podcasts etc for Drupal CMS.",
